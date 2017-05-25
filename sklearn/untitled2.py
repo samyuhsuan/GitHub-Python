@@ -89,4 +89,8 @@ X_opt = X
 
 sm.OLS(endog=y, exog=X_opt).fit().summary()
 
+from sklearn import linear_model
+
+regressor.coef_
+
 
