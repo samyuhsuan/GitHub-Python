@@ -12,6 +12,13 @@ import matplotlib.pyplot as plt
 data = pd.read_csv("movie_metadata.csv")
 
 data.movie_title = data.movie_title.str.replace("\xa0", "")
+data = data.drop("movie_imdb_link", axis=1)
+
+#numerical and nonnumerical data columns
+numeric = data._get_numeric_data().columns
+non_numeric = list(set(data.columns) -  set(data._get_numeric_data().columns))
+data[numeric].info()
+data[non_numeric].info()
 
 #identifying data level by their unique values per column 
 levelLength=[]
@@ -52,16 +59,31 @@ def dist(g, h):
     temp.percentage = temp.percentage.round(2)
     print(temp.sort_values(h, ascending=False))
 
-dist("plot_keywords", "freq")
+dist("country", "freq")
+dist("language", "freq")
+
+data["num_voted_users"].value_counts()
 
 plt.hist(data["num_voted_users"], bins=100)
 
-exam
+pd.qcut(data.duration, 3).value_counts()
+pd.qcut(data.title_year, 4).value_counts()
+dist("duration", "freq")
 
+data.corr()
+
+exam[exam.Name.isin(numeric)]
+exam[exam.Name.isin(non_numeric)]
+     
+data[data.country.isin(["Russia"])]
+     
+data[numeric]
+     
 data.info()
 
 data.describe()
 
+data[data._get_numeric_data().columns].head()
 
-data.plot_keywords.str.split("|")
+
 
