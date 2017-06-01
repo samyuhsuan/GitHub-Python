@@ -8,6 +8,8 @@ Created on Thu May 25 17:01:21 2017
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
+import seaborn as sns
+from sklearn.preprocessing import Imputer
 
 data = pd.read_csv("movie_metadata.csv")
 
@@ -17,8 +19,6 @@ data = data.drop("movie_imdb_link", axis=1)
 #numerical and nonnumerical data columns
 numeric = data._get_numeric_data().columns
 non_numeric = list(set(data.columns) -  set(data._get_numeric_data().columns))
-data[numeric].info()
-data[non_numeric].info()
 
 #identifying data level by their unique values per column 
 levelLength=[]
@@ -46,6 +46,9 @@ missing = missing.sort_values("MissingValueLength", ascending=False)
 
 #merging missing and level
 exam = level.merge(missing[["Name", "MissingValueLength"]], on="Name", how="left")
+#numerical and non-numerical for exam
+exam_num = exam[exam.Name.isin(numeric)]
+exam_cat = exam[exam.Name.isin(non_numeric)]
 
 #drop duplicates of data 
 data.drop_duplicates(subset="movie_title", keep="first", inplace=True)
@@ -59,31 +62,62 @@ def dist(g, h):
     temp.percentage = temp.percentage.round(2)
     print(temp.sort_values(h, ascending=False))
 
-dist("country", "freq")
-dist("language", "freq")
 
-data["num_voted_users"].value_counts()
+#------below dealing with this specific dataset-------
+    
+exam_num   
 
-plt.hist(data["num_voted_users"], bins=100)
+#converting some categorical data that is translated as numerical data
+data.title_year = data.title_year.astype("category")
+for name in non_numeric:
+    data[name] = data[name].astype("category")
 
-pd.qcut(data.duration, 3).value_counts()
-pd.qcut(data.title_year, 4).value_counts()
-dist("duration", "freq")
+#recategorise some numerical columns to non_numerical 
+numeric = numeric - ["title_year"]
+non_numeric = non_numeric + ["title_year"]
+#and rerun exam_num and exam_cat
+exam_num = exam[exam.Name.isin(numeric)]
+exam_cat = exam[exam.Name.isin(non_numeric)]
 
-data.corr()
+#dealing with categorical data
+#firstly title year, separate that into 4 bins 
+data["title_year_c"] = np.nan
+data["title_year_c"] = pd.qcut(data.title_year, 4)
+#reorganise content_rating 
+#using ~ to take out not in the majority
+data["content_rating_c"] = "Others"
+data.content_rating_c.iloc[data.content_rating.isin(["Unrated", "Nor Rated"]), :] = "Not Rated"
+data.content_rating[~data.content_rating.isin(["R", "PG-13", "PG", ""])].head()
 
-exam[exam.Name.isin(numeric)]
-exam[exam.Name.isin(non_numeric)]
-     
-data[data.country.isin(["Russia"])]
-     
-data[numeric]
-     
-data.info()
 
-data.describe()
+exam_num
+exam_cat
 
-data[data._get_numeric_data().columns].head()
+
+
+dist("content_rating_c", "freq")
+
+dist("actor_1_name", "freq")
+
+
+
+data[["budget", "gross", "imdb_score"]].corr()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
