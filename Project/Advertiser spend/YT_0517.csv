@@ -1,0 +1,17 @@
+Month,Advertiser,Advertiser ID,Advertiser Status,Advertiser Integration Code,Advertiser Currency,Impressions,Clicks,Revenue (Adv Currency),Media Cost (Advertiser Currency)
+2017/05,SCA_UK_Zenith,543450,Active,,GBP,2606122,2375,29398.786177,20578.773321
+2017/05,Boucheron_UK_Zenith,1688033,Active,,GBP,1271985,1616,14983.551535,10488.293929
+2017/05,New Look (Non DCM)_UK_Zenith,8583,Active,,GBP,1471232,1730,17297.919218,12108.321628
+2017/05,Christies_UK_Zenith International,914143,Active,,GBP,131335,267,1823.685355,1276.556362
+,,,,,,5480674,5988,63503.942285,44451.945240
+
+Report Time:,2017/06/01 10:19 GMT
+Date Range:,2017/05/01 to 2017/05/31
+Group By:,Month
+Group By:,Advertiser
+Group By:,Advertiser ID
+Group By:,Advertiser Status
+Group By:,Advertiser Integration Code
+Group By:,Advertiser Currency
+Filter by Line Item Type ID:,6
+Filter by Partner ID:,151
