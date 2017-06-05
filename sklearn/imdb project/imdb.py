@@ -86,16 +86,25 @@ data["title_year_c"] = pd.qcut(data.title_year, 4)
 #reorganise content_rating 
 #using ~ to take out not in the majority
 data["content_rating_c"] = "Others"
-data.content_rating_c.iloc[data.content_rating.isin(["Unrated", "Nor Rated"]), :] = "Not Rated"
-data.content_rating[~data.content_rating.isin(["R", "PG-13", "PG", ""])].head()
-
+data.content_rating_c[data.content_rating.isin(["Unrated", "Not Rated"])] = "Not Rated"
+data.content_rating_c[data.content_rating.isin(["TV-PG", "TV-14"])] = "PG"
+data.content_rating_c[(~data.content_rating.isin(["R", "PG-13", "PG", "Approved", "TV-MA"])) & (~data.content_rating_c.isin(["PG", "Not Rated"]))] = "Others"
+data.content_rating_c[data.content_rating.isin(["R", "PG-13", "PG", "Approved", "TV-MA"])] = data.content_rating
+#taking care of country
+data["country_c"] = "Others"
+data.country_c[data.country.isin(["USA", "UK", "France", "Canada", "Germany", "Australia", "India", "Spain", "Chinae"])] = data.country 
+#taking care of language
+data["language_c"] = "Others"
+data.language_c[data.language.isin(["English"])] = "English"
 
 exam_num
 exam_cat
 
 
 
-dist("content_rating_c", "freq")
+dist("language", "freq")
+
+dist("language_c", "freq")
 
 dist("actor_1_name", "freq")
 
