@@ -65,8 +65,6 @@ def dist(g, h):
 
 #------below dealing with this specific dataset-------
     
-exam_num   
-
 #converting some categorical data that is translated as numerical data
 data.title_year = data.title_year.astype("category")
 for name in non_numeric:
@@ -100,9 +98,7 @@ data.language_c[data.language.isin(["English"])] = "English"
 exam_num
 exam_cat
 
-
-
-dist("language", "freq")
+dist("genres", "freq")
 
 dist("language_c", "freq")
 
