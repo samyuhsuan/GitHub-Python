@@ -1,0 +1,94 @@
+impression_date,advertiser_name,deal_id,deal_name,Impressions,Clicks,Currency, Cost 
+2017_06_01,SCA_UK_Zenith,334092,Playground Test - 334092,3,0,GBP, £0.00 
+2017_06_01,SCA_UK_Zenith,Unknown,Unknown,"176,501",792,GBP, £173.85 
+2017_06_01,SCA_UK_Zenith,OX-MPO-dlJ58A,AO - OpenX RTB - Various - OX-MPO-dlJ58A,6,0,GBP, £0.01 
+2017_06_01,ghd_UK_Zenith,Unknown,Unknown,"214,389",78,GBP, £190.48 
+2017_06_02,SCA_UK_Zenith,OX-MPO-dlJ58A,AO - OpenX RTB - Various - OX-MPO-dlJ58A,4,0,GBP, £0.01 
+2017_06_02,SCA_UK_Zenith,Unknown,Unknown,"175,321",813,GBP, £173.39 
+2017_06_02,ghd_UK_Zenith,Unknown,Unknown,"225,677",124,GBP, £303.01 
+2017_06_02,SCA_UK_Zenith,341250,Playground XYZ_SCA_TENA Direct,"4,276",28,GBP, £100.66 
+2017_06_03,SCA_UK_Zenith,OX-MPO-dlJ58A,AO - OpenX RTB - Various - OX-MPO-dlJ58A,7,0,GBP, £0.02 
+2017_06_03,SCA_UK_Zenith,TRN-13132-0079a,AO - Rubicon - xAd - CPG,2,0,GBP, £0.01 
+2017_06_03,SCA_UK_Zenith,Unknown,Unknown,"109,582",341,GBP, £148.48 
+2017_06_03,ghd_UK_Zenith,Unknown,Unknown,"193,164",141,GBP, £307.67 
+2017_06_03,SCA_UK_Zenith,341250,Playground XYZ_SCA_TENA Direct,"4,187",30,GBP, £98.54 
+2017_06_04,SCA_UK_Zenith,TRN-13132-0079a,AO - Rubicon - xAd - CPG,1,0,GBP, £0.00 
+2017_06_04,SCA_UK_Zenith,Unknown,Unknown,"169,996",563,GBP, £173.77 
+2017_06_04,ghd_UK_Zenith,Unknown,Unknown,"259,047",193,GBP, £330.05 
+2017_06_04,SCA_UK_Zenith,341250,Playground XYZ_SCA_TENA Direct,"4,224",13,GBP, £99.30 
+2017_06_04,SCA_UK_Zenith,OX-MPO-dlJ58A,AO - OpenX RTB - Various - OX-MPO-dlJ58A,12,0,GBP, £0.03 
+2017_06_05,SCA_UK_Zenith,Unknown,Unknown,"144,722",442,GBP, £136.90 
+2017_06_05,ghd_UK_Zenith,OX-MPO-dlJ58A,AO - OpenX RTB - Various - OX-MPO-dlJ58A,1,0,GBP, £0.00 
+2017_06_05,SCA_UK_Zenith,OX-MPO-dlJ58A,AO - OpenX RTB - Various - OX-MPO-dlJ58A,2,0,GBP, £0.00 
+2017_06_05,ghd_UK_Zenith,Unknown,Unknown,"267,761",342,GBP, £495.40 
+2017_06_05,SCA_UK_Zenith,341250,Playground XYZ_SCA_TENA Direct,"2,090",13,GBP, £49.13 
+2017_06_06,ghd_UK_Zenith,Unknown,Unknown,"254,786",144,GBP, £401.93 
+2017_06_07,ghd_UK_Zenith,Unknown,Unknown,"371,282",306,GBP, £639.21 
+2017_06_08,ghd_UK_Zenith,OX-MPO-dlJ58A,AO - OpenX RTB - Various - OX-MPO-dlJ58A,7,0,GBP, £0.02 
+2017_06_08,ghd_UK_Zenith,Unknown,Unknown,"1,001,723",732,GBP," £1,720.50 "
+2017_06_09,ghd_UK_Zenith,OX-MPO-dlJ58A,AO - OpenX RTB - Various - OX-MPO-dlJ58A,3,0,GBP, £0.01 
+2017_06_09,ghd_UK_Zenith,Unknown,Unknown,"1,411,470","1,019",GBP," £2,297.23 "
+2017_06_10,ghd_UK_Zenith,Unknown,Unknown,"1,688,243","1,091",GBP," £2,818.27 "
+2017_06_10,ghd_UK_Zenith,OX-MPO-dlJ58A,AO - OpenX RTB - Various - OX-MPO-dlJ58A,7,0,GBP, £0.01 
+2017_06_11,ghd_UK_Zenith,OX-MPO-dlJ58A,AO - OpenX RTB - Various - OX-MPO-dlJ58A,4,0,GBP, £0.01 
+2017_06_11,ghd_UK_Zenith,Unknown,Unknown,"1,540,734","1,126",GBP," £2,865.01 "
+2017_06_12,ghd_UK_Zenith,OX-MPO-dlJ58A,AO - OpenX RTB - Various - OX-MPO-dlJ58A,1,0,GBP, £0.00 
+2017_06_12,ghd_UK_Zenith,Unknown,Unknown,"1,204,926",825,GBP," £2,350.58 "
+2017_06_12,Merial_UK_Zenith,Unknown,Unknown,"140,765",70,GBP, £274.69 
+2017_06_13,Merial_UK_Zenith,Unknown,Unknown,"216,105",58,GBP, £276.21 
+2017_06_14,Merial_UK_Zenith,Unknown,Unknown,"194,557",79,GBP, £221.56 
+2017_06_15,Merial_UK_Zenith,Unknown,Unknown,"227,590",85,GBP, £263.06 
+2017_06_16,Merial_UK_Zenith,Unknown,Unknown,"231,636",79,GBP, £277.23 
+2017_06_17,Merial_UK_Zenith,230936916878446594,Gumtree_UK_Audience_Pets_IAB,"7,938",5,GBP, £31.53 
+2017_06_17,Merial_UK_Zenith,230936916878446565,Gumtree_UK_Audience_Pets_970x250,"3,496",5,GBP, £24.57 
+2017_06_17,Merial_UK_Zenith,249312397583473437,eBay - Zenith - Pet Products - DMPU - ATF PMP,"3,109",3,GBP, £32.14 
+2017_06_17,Merial_UK_Zenith,Unknown,Unknown,"205,787",111,GBP, £263.39 
+2017_06_17,Merial_UK_Zenith,249312397583473431,eBay - Zenith - Pet Products - ATF PMP,"6,258",7,GBP, £30.65 
+2017_06_18,Merial_UK_Zenith,230936916878446594,Gumtree_UK_Audience_Pets_IAB,"9,091",3,GBP, £36.13 
+2017_06_18,Merial_UK_Zenith,230936916878446565,Gumtree_UK_Audience_Pets_970x250,"2,146",2,GBP, £15.07 
+2017_06_18,Merial_UK_Zenith,Unknown,Unknown,"220,486",106,GBP, £271.95 
+2017_06_18,Merial_UK_Zenith,249312397583473431,eBay - Zenith - Pet Products - ATF PMP,"7,183",4,GBP, £35.11 
+2017_06_18,Merial_UK_Zenith,249312397583473437,eBay - Zenith - Pet Products - DMPU - ATF PMP,"3,512",4,GBP, £36.08 
+2017_06_19,Merial_UK_Zenith,249312397583473437,eBay - Zenith - Pet Products - DMPU - ATF PMP,"4,657",2,GBP, £47.83 
+2017_06_19,Merial_UK_Zenith,230936916878446594,Gumtree_UK_Audience_Pets_IAB,"12,209",6,GBP, £48.37 
+2017_06_19,Merial_UK_Zenith,230936916878446565,Gumtree_UK_Audience_Pets_970x250,"1,964",3,GBP, £13.76 
+2017_06_19,Merial_UK_Zenith,Unknown,Unknown,"174,044",98,GBP, £255.87 
+2017_06_19,Merial_UK_Zenith,249312397583473431,eBay - Zenith - Pet Products - ATF PMP,"9,809",9,GBP, £47.41 
+2017_06_20,Merial_UK_Zenith,230936916878446594,Gumtree_UK_Audience_Pets_IAB,"13,296",3,GBP, £52.47 
+2017_06_20,Merial_UK_Zenith,230936916878446565,Gumtree_UK_Audience_Pets_970x250,"1,990",3,GBP, £13.86 
+2017_06_20,Merial_UK_Zenith,249312397583473437,eBay - Zenith - Pet Products - DMPU - ATF PMP,"5,054",5,GBP, £51.53 
+2017_06_20,Merial_UK_Zenith,Unknown,Unknown,"184,721",93,GBP, £253.54 
+2017_06_20,Merial_UK_Zenith,249312397583473431,eBay - Zenith - Pet Products - ATF PMP,"10,594",8,GBP, £51.39 
+2017_06_21,Merial_UK_Zenith,230936916878446594,Gumtree_UK_Audience_Pets_IAB,"13,603",4,GBP, £53.44 
+2017_06_21,Merial_UK_Zenith,230936916878446565,Gumtree_UK_Audience_Pets_970x250,"1,883",5,GBP, £13.13 
+2017_06_21,Merial_UK_Zenith,Unknown,Unknown,"177,948",96,GBP, £260.84 
+2017_06_21,Merial_UK_Zenith,249312397583473431,eBay - Zenith - Pet Products - ATF PMP,"10,928",20,GBP, £52.67 
+2017_06_21,Merial_UK_Zenith,249312397583473437,eBay - Zenith - Pet Products - DMPU - ATF PMP,"5,148",4,GBP, £52.57 
+2017_06_22,Merial_UK_Zenith,249312397583473437,eBay - Zenith - Pet Products - DMPU - ATF PMP,1,0,GBP, £0.01 
+2017_06_22,Merial_UK_Zenith,230936916878446594,Gumtree_UK_Audience_Pets_IAB,"13,467",4,GBP, £53.58 
+2017_06_22,Merial_UK_Zenith,230936916878446565,Gumtree_UK_Audience_Pets_970x250,"1,803",2,GBP, £12.71 
+2017_06_22,Merial_UK_Zenith,Unknown,Unknown,"164,592",90,GBP, £264.99 
+2017_06_23,Merial_UK_Zenith,230936916878446594,Gumtree_UK_Audience_Pets_IAB,"17,850",2,GBP, £70.97 
+2017_06_23,Merial_UK_Zenith,230936916878446565,Gumtree_UK_Audience_Pets_970x250,"1,794",2,GBP, £12.65 
+2017_06_23,Merial_UK_Zenith,Unknown,Unknown,"156,390",93,GBP, £255.32 
+2017_06_24,Merial_UK_Zenith,230936916878446565,Gumtree_UK_Audience_Pets_970x250,"2,723",1,GBP, £19.15 
+2017_06_24,Merial_UK_Zenith,Unknown,Unknown,"177,709",107,GBP, £277.29 
+2017_06_24,Merial_UK_Zenith,230936916878446594,Gumtree_UK_Audience_Pets_IAB,"24,456",9,GBP, £97.01 
+2017_06_25,Merial_UK_Zenith,Unknown,Unknown,"174,366",96,GBP, £264.72 
+2017_06_25,Merial_UK_Zenith,230936916878446594,Gumtree_UK_Audience_Pets_IAB,"30,380",5,GBP, £120.26 
+2017_06_25,Merial_UK_Zenith,230936916878446565,Gumtree_UK_Audience_Pets_970x250,"1,499",4,GBP, £10.54 
+2017_06_26,Merial_UK_Zenith,Unknown,Unknown,"174,106",113,GBP, £275.30 
+2017_06_26,Merial_UK_Zenith,230936916878446594,Gumtree_UK_Audience_Pets_IAB,"36,701",15,GBP, £146.08 
+2017_06_26,Merial_UK_Zenith,230936916878446565,Gumtree_UK_Audience_Pets_970x250,"2,355",3,GBP, £16.55 
+2017_06_27,Merial_UK_Zenith,230936916878446594,Gumtree_UK_Audience_Pets_IAB,"33,901",20,GBP, £135.03 
+2017_06_27,Merial_UK_Zenith,230936916878446565,Gumtree_UK_Audience_Pets_970x250,"1,693",1,GBP, £11.87 
+2017_06_27,Merial_UK_Zenith,Unknown,Unknown,"153,389",132,GBP, £238.90 
+2017_06_28,Merial_UK_Zenith,230936916878446594,Gumtree_UK_Audience_Pets_IAB,"40,759",20,GBP, £163.81 
+2017_06_28,Merial_UK_Zenith,230936916878446565,Gumtree_UK_Audience_Pets_970x250,"2,470",3,GBP, £17.48 
+2017_06_28,Merial_UK_Zenith,Unknown,Unknown,"146,114",145,GBP, £237.85 
+2017_06_29,Merial_UK_Zenith,230936916878446594,Gumtree_UK_Audience_Pets_IAB,"32,647",13,GBP, £131.28 
+2017_06_29,Merial_UK_Zenith,230936916878446565,Gumtree_UK_Audience_Pets_970x250,555,2,GBP, £3.93 
+2017_06_29,Merial_UK_Zenith,Unknown,Unknown,"153,294",178,GBP, £237.46 
+2017_06_30,Merial_UK_Zenith,230936916878446594,Gumtree_UK_Audience_Pets_IAB,"19,815",17,GBP, £79.00 
+2017_06_30,Merial_UK_Zenith,230936916878446565,Gumtree_UK_Audience_Pets_970x250,"2,129",1,GBP, £14.97 
+2017_06_30,Merial_UK_Zenith,Unknown,Unknown,"159,774",154,GBP, £240.64 
