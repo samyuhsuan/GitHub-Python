@@ -109,12 +109,7 @@ dist("actor_1_name", "freq")
 data[["budget", "gross", "imdb_score"]].corr()
 
 
-
-
-
-
-
-
+data.language.value_counts()
 
 
 
