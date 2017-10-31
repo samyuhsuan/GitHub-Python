@@ -1,0 +1,19 @@
+Month,Advertiser,Advertiser ID,Advertiser Status,Advertiser Integration Code,Advertiser Currency,Impressions,Clicks,Revenue (Adv Currency),Media Cost (Advertiser Currency)
+2017/09,SCA_UK_Zenith,543450,Active,,GBP,2691411,3221,23493.240225,16444.966886
+2017/09,John Frieda_UK_Zenith,272335,Active,,GBP,2537027,2994,18607.126558,13630.300418
+2017/09,New Look_UK_Performics,1772231,Active,,GBP,178838,702,1237.502395,866.235807
+2017/09,Stella McCartney_UK_Zenith,1645637,Active,,GBP,315785,360,1998.749481,1399.099005
+2017/09,Entertainment One_UK_Zenith,8451,Active,,GBP,4021426,8771,28213.779248,19793.434870
+2017/09,Molson Coors_UK_Zenith (DCM),676041,Active,,GBP,1766419,3319,29873.907179,21883.568548
+,,,,,,11510906,19367,103424.305085,74017.605534
+
+Report Time:,2017/10/02 08:46 GMT
+Date Range:,2017/09/01 to 2017/09/30
+Group By:,Month
+Group By:,Advertiser
+Group By:,Advertiser ID
+Group By:,Advertiser Status
+Group By:,Advertiser Integration Code
+Group By:,Advertiser Currency
+Filter by Line Item Type ID:,6
+Filter by Partner ID:,151

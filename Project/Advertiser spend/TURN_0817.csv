@@ -1,0 +1,734 @@
+impression_date,advertiser_name,deal_id,deal_name,Impressions,Clicks,Currency, Cost 
+2017_08_01,SCA_UK_Zenith,TRN-13132-00b3d,GroundTruth_SCA_Bodyform Blackliner_320x50,"10,064",43,GBP,£54.68
+2017_08_01,SCA_UK_Zenith,TRN-13132-00bff,GroundTruth_SCA_Bodyform Blackliner_320x480 2,543,3,GBP,£5.85
+2017_08_01,SCA_UK_Zenith,svn_AUTOMOTIVE,Car Lovers,5,0,GBP,£0.03
+2017_08_01,SCA_UK_Zenith,svn_HEALTH,Health Gurus,13,0,GBP,£0.07
+2017_08_01,SCA_UK_Zenith,svn_ARTS,Arts & Popular Media,4,0,GBP,£0.02
+2017_08_01,SCA_UK_Zenith,svn_FOOD,Foodies,13,0,GBP,£0.07
+2017_08_01,SCA_UK_Zenith,svn_HOBBIES,Hobbyists,11,0,GBP,£0.06
+2017_08_01,SCA_UK_Zenith,357293,Playground XYZ_SCA_Bodyform Blackliner,"4,052",25,GBP,£95.03
+2017_08_01,SCA_UK_Zenith,TRN-13132-00b3e,GroundTruth_SCA_Bodyform Blackliner_300x250,"2,262",6,GBP,£12.26
+2017_08_01,SCA_UK_Zenith,OX-MPO-dlJ58A,AO - OpenX RTB - Various - OX-MPO-dlJ58A,51,0,GBP,£0.20
+2017_08_01,SCA_UK_Zenith,svn_LAWGOVT,Politicos,9,0,GBP,£0.04
+2017_08_01,SCA_UK_Zenith,svn_SPORTS,Sports Enthusiats,1,0,GBP,£0.01
+2017_08_01,SCA_UK_Zenith,svn_TECH,Gadget Fans,7,0,GBP,£0.04
+2017_08_01,SCA_UK_Zenith,svn_NEWS,Newshounds,3,0,GBP,£0.02
+2017_08_01,SCA_UK_Zenith,svn_STYLE,Fashionistas,14,0,GBP,£0.07
+2017_08_01,SCA_UK_Zenith,Unknown,Unknown,"347,251",301,GBP,"£1,036.25"
+2017_08_01,SCA_UK_Zenith,svn_BUSINESS,Business Buffs,11,0,GBP,£0.06
+2017_08_01,SCA_UK_Zenith,svn_PETS,Pet Lovers,5,0,GBP,£0.03
+2017_08_01,SCA_UK_Zenith,svn_SCIENCE,Science Buffs,2,1,GBP,£0.01
+2017_08_01,SCA_UK_Zenith,svn_EDU,Secondary & Adult Ed,2,0,GBP,£0.01
+2017_08_02,SCA_UK_Zenith,svn_TRAVEL,Jet Setters,1,0,GBP,£0.01
+2017_08_02,SCA_UK_Zenith,TRN-13132-00bff,GroundTruth_SCA_Bodyform Blackliner_320x480 2,"1,450",20,GBP,£15.61
+2017_08_02,SCA_UK_Zenith,svn_AUTOMOTIVE,Car Lovers,1,0,GBP,£0.00
+2017_08_02,SCA_UK_Zenith,svn_FAMILY,Family Matters,1,0,GBP,£0.00
+2017_08_02,SCA_UK_Zenith,Sovrn_HV1,High Viewability,7,0,GBP,£0.04
+2017_08_02,SCA_UK_Zenith,svn_ARTS,Arts & Popular Media,3,0,GBP,£0.01
+2017_08_02,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | 970x250,503,0,GBP,£8.53
+2017_08_02,SCA_UK_Zenith,OX-MPO-dlJ58A,AO - OpenX RTB - Various - OX-MPO-dlJ58A,69,0,GBP,£0.31
+2017_08_02,SCA_UK_Zenith,svn_SPORTS,Sports Enthusiats,1,0,GBP,£0.01
+2017_08_02,SCA_UK_Zenith,357293,Playground XYZ_SCA_Bodyform Blackliner,"2,062",32,GBP,£48.11
+2017_08_02,SCA_UK_Zenith,TRN-13132-00b3e,GroundTruth_SCA_Bodyform Blackliner_300x250,"1,700",6,GBP,£9.19
+2017_08_02,SCA_UK_Zenith,svn_STYLE,Fashionistas,18,0,GBP,£0.09
+2017_08_02,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | 300x600,46,0,GBP,£0.64
+2017_08_02,SCA_UK_Zenith,svn_FINANCE,Financial Investors,8,0,GBP,£0.04
+2017_08_02,SCA_UK_Zenith,svn_HOME,Home Improvement,2,0,GBP,£0.01
+2017_08_02,SCA_UK_Zenith,svn_EDU,Secondary & Adult Ed,3,0,GBP,£0.01
+2017_08_02,SCA_UK_Zenith,svn_NEWS,Newshounds,5,0,GBP,£0.02
+2017_08_02,SCA_UK_Zenith,TRN-13132-00b3d,GroundTruth_SCA_Bodyform Blackliner_320x50,"8,858",39,GBP,£47.97
+2017_08_02,SCA_UK_Zenith,Unknown,Unknown,"356,346",325,GBP,"£1,027.43"
+2017_08_02,SCA_UK_Zenith,svn_BUSINESS,Business Buffs,12,0,GBP,£0.06
+2017_08_02,SCA_UK_Zenith,svn_PETS,Pet Lovers,9,0,GBP,£0.05
+2017_08_02,SCA_UK_Zenith,svn_SCIENCE,Science Buffs,8,0,GBP,£0.04
+2017_08_03,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | Standard,148,0,GBP,£1.71
+2017_08_03,SCA_UK_Zenith,Unknown,Unknown,"344,646",407,GBP,"£1,011.03"
+2017_08_03,SCA_UK_Zenith,svn_BUSINESS,Business Buffs,4,0,GBP,£0.02
+2017_08_03,SCA_UK_Zenith,svn_PETS,Pet Lovers,3,0,GBP,£0.02
+2017_08_03,SCA_UK_Zenith,svn_SCIENCE,Science Buffs,3,0,GBP,£0.02
+2017_08_03,SCA_UK_Zenith,Sovrn_HV1,High Viewability,3,0,GBP,£0.01
+2017_08_03,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | 970x250,"1,110",0,GBP,£18.82
+2017_08_03,SCA_UK_Zenith,OX-MPO-dlJ58A,AO - OpenX RTB - Various - OX-MPO-dlJ58A,65,0,GBP,£0.27
+2017_08_03,SCA_UK_Zenith,TRN-13132-00bff,GroundTruth_SCA_Bodyform Blackliner_320x480 2,"1,922",12,GBP,£20.76
+2017_08_03,SCA_UK_Zenith,svn_FAMILY,Family Matters,1,0,GBP,£0.01
+2017_08_03,SCA_UK_Zenith,svn_SPORTS,Sports Enthusiats,1,0,GBP,£0.01
+2017_08_03,SCA_UK_Zenith,svn_STYLE,Fashionistas,6,0,GBP,£0.03
+2017_08_03,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | 300x600,112,0,GBP,£1.57
+2017_08_03,SCA_UK_Zenith,357293,Playground XYZ_SCA_Bodyform Blackliner,"3,477",42,GBP,£81.07
+2017_08_03,SCA_UK_Zenith,TRN-13132-00b3e,GroundTruth_SCA_Bodyform Blackliner_300x250,"1,880",5,GBP,£10.19
+2017_08_03,SCA_UK_Zenith,svn_EDU,Secondary & Adult Ed,2,0,GBP,£0.01
+2017_08_03,SCA_UK_Zenith,TRN-13132-00b3d,GroundTruth_SCA_Bodyform Blackliner_320x50,"7,375",25,GBP,£40.04
+2017_08_03,SCA_UK_Zenith,svn_HOME,Home Improvement,3,0,GBP,£0.02
+2017_08_03,SCA_UK_Zenith,svn_NEWS,Newshounds,1,0,GBP,£0.01
+2017_08_03,SCA_UK_Zenith,svn_TRAVEL,Jet Setters,1,0,GBP,£0.00
+2017_08_04,SCA_UK_Zenith,Sovrn_HV1,High Viewability,2,0,GBP,£0.01
+2017_08_04,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | 970x250,677,1,GBP,£11.40
+2017_08_04,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | Standard,120,0,GBP,£1.38
+2017_08_04,SCA_UK_Zenith,OX-MPO-dlJ58A,AO - OpenX RTB - Various - OX-MPO-dlJ58A,70,0,GBP,£0.29
+2017_08_04,SCA_UK_Zenith,Unknown,Unknown,"346,278",375,GBP,"£1,018.05"
+2017_08_04,SCA_UK_Zenith,svn_BUSINESS,Business Buffs,3,0,GBP,£0.02
+2017_08_04,SCA_UK_Zenith,svn_PETS,Pet Lovers,4,0,GBP,£0.02
+2017_08_04,SCA_UK_Zenith,svn_SCIENCE,Science Buffs,3,0,GBP,£0.02
+2017_08_04,SCA_UK_Zenith,svn_STYLE,Fashionistas,4,0,GBP,£0.02
+2017_08_04,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | 300x600,100,0,GBP,£1.39
+2017_08_04,SCA_UK_Zenith,TRN-13132-00bff,GroundTruth_SCA_Bodyform Blackliner_320x480 2,"1,026",6,GBP,£11.03
+2017_08_04,SCA_UK_Zenith,svn_FAMILY,Family Matters,1,0,GBP,£0.01
+2017_08_04,SCA_UK_Zenith,OX-dip-EiENas,AO - OpenX RTB - GoViral Inc. - OX-dip-EiENas,1,0,GBP,£0.01
+2017_08_04,SCA_UK_Zenith,svn_EDU,Secondary & Adult Ed,1,0,GBP,£0.01
+2017_08_04,SCA_UK_Zenith,361954,Sublime Skinz_SCA_Bodyform Blackliner 2,"9,979",128,GBP,£246.39
+2017_08_04,SCA_UK_Zenith,TRN-13132-00b3d,GroundTruth_SCA_Bodyform Blackliner_320x50,"8,314",29,GBP,£45.01
+2017_08_04,SCA_UK_Zenith,357293,Playground XYZ_SCA_Bodyform Blackliner,"2,796",38,GBP,£64.64
+2017_08_04,SCA_UK_Zenith,TRN-13132-00b3e,GroundTruth_SCA_Bodyform Blackliner_300x250,"2,045",2,GBP,£11.04
+2017_08_04,SCA_UK_Zenith,svn_TRAVEL,Jet Setters,2,0,GBP,£0.01
+2017_08_04,SCA_UK_Zenith,OX-33a-bWjc5I,AO - OpenX RTB - 33Across - OX-33a-bWjc5I,1,0,GBP,£0.00
+2017_08_05,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | 970x250,1,0,GBP,£0.02
+2017_08_05,SCA_UK_Zenith,OX-MPO-dlJ58A,AO - OpenX RTB - Various - OX-MPO-dlJ58A,46,0,GBP,£0.20
+2017_08_05,SCA_UK_Zenith,svn_FINANCE,Financial Investors,5,0,GBP,£0.03
+2017_08_05,SCA_UK_Zenith,TRN-13132-0079a,AO - Rubicon - xAd - CPG,0,1,GBP,
+2017_08_05,SCA_UK_Zenith,svn_NEWS,Newshounds,2,0,GBP,£0.01
+2017_08_05,SCA_UK_Zenith,svn_STYLE,Fashionistas,4,0,GBP,£0.02
+2017_08_05,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | Standard,10,0,GBP,£0.11
+2017_08_05,SCA_UK_Zenith,Unknown,Unknown,"322,258",426,GBP,"£1,011.43"
+2017_08_05,SCA_UK_Zenith,svn_BUSINESS,Business Buffs,4,0,GBP,£0.02
+2017_08_05,SCA_UK_Zenith,svn_PETS,Pet Lovers,1,0,GBP,£0.01
+2017_08_05,SCA_UK_Zenith,svn_SCIENCE,Science Buffs,2,0,GBP,£0.01
+2017_08_05,SCA_UK_Zenith,SVNAUTO,Sovrn Index: Automotive,1,0,GBP,£0.01
+2017_08_05,SCA_UK_Zenith,361954,Sublime Skinz_SCA_Bodyform Blackliner 2,"9,569",146,GBP,£237.67
+2017_08_05,SCA_UK_Zenith,TRN-13132-00b3d,GroundTruth_SCA_Bodyform Blackliner_320x50,"8,444",25,GBP,£45.69
+2017_08_05,SCA_UK_Zenith,TRN-13132-00bff,GroundTruth_SCA_Bodyform Blackliner_320x480 2,17,0,GBP,£0.18
+2017_08_05,SCA_UK_Zenith,svn_ARTS,Arts & Popular Media,1,0,GBP,£0.01
+2017_08_05,SCA_UK_Zenith,svn_FOOD,Foodies,2,0,GBP,£0.01
+2017_08_05,SCA_UK_Zenith,357293,Playground XYZ_SCA_Bodyform Blackliner,"3,003",84,GBP,£69.46
+2017_08_05,SCA_UK_Zenith,Sovrn_HV1,High Viewability,3,0,GBP,£0.01
+2017_08_05,SCA_UK_Zenith,TRN-13132-00b3e,GroundTruth_SCA_Bodyform Blackliner_300x250,"1,516",3,GBP,£8.19
+2017_08_06,SCA_UK_Zenith,357293,Playground XYZ_SCA_Bodyform Blackliner,"2,918",91,GBP,£67.97
+2017_08_06,SCA_UK_Zenith,TRN-13132-00b3e,GroundTruth_SCA_Bodyform Blackliner_300x250,"1,655",2,GBP,£8.96
+2017_08_06,SCA_UK_Zenith,svn_STYLE,Fashionistas,3,0,GBP,£0.02
+2017_08_06,SCA_UK_Zenith,svn_FINANCE,Financial Investors,2,0,GBP,£0.01
+2017_08_06,SCA_UK_Zenith,svn_EDU,Secondary & Adult Ed,1,0,GBP,£0.01
+2017_08_06,SCA_UK_Zenith,361954,Sublime Skinz_SCA_Bodyform Blackliner 2,"9,727",156,GBP,£243.29
+2017_08_06,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | Standard,5,0,GBP,£0.06
+2017_08_06,SCA_UK_Zenith,TRN-13132-00b3d,GroundTruth_SCA_Bodyform Blackliner_320x50,"9,046",21,GBP,£49.11
+2017_08_06,SCA_UK_Zenith,Unknown,Unknown,"352,554",445,GBP,"£1,051.63"
+2017_08_06,SCA_UK_Zenith,svn_BUSINESS,Business Buffs,13,0,GBP,£0.08
+2017_08_06,SCA_UK_Zenith,svn_PETS,Pet Lovers,4,0,GBP,£0.02
+2017_08_06,SCA_UK_Zenith,svn_SCIENCE,Science Buffs,9,0,GBP,£0.05
+2017_08_06,SCA_UK_Zenith,SVNAUTO,Sovrn Index: Automotive,1,0,GBP,£0.01
+2017_08_06,SCA_UK_Zenith,svn_TRAVEL,Jet Setters,1,0,GBP,£0.01
+2017_08_06,SCA_UK_Zenith,TRN-13132-00bff,GroundTruth_SCA_Bodyform Blackliner_320x480 2,64,0,GBP,£0.69
+2017_08_06,SCA_UK_Zenith,Sovrn_HV1,High Viewability,3,0,GBP,£0.02
+2017_08_06,SCA_UK_Zenith,svn_ARTS,Arts & Popular Media,1,0,GBP,£0.00
+2017_08_06,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | 970x250,3,0,GBP,£0.05
+2017_08_06,SCA_UK_Zenith,OX-MPO-dlJ58A,AO - OpenX RTB - Various - OX-MPO-dlJ58A,37,0,GBP,£0.16
+2017_08_07,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | 300x600,36,0,GBP,£0.51
+2017_08_07,SCA_UK_Zenith,357293,Playground XYZ_SCA_Bodyform Blackliner,"2,963",51,GBP,£69.02
+2017_08_07,SCA_UK_Zenith,OX-pmc-Vude2j,AO - OpenX - PMC - OX-pmc-Vude2j,1,0,GBP,£0.00
+2017_08_07,SCA_UK_Zenith,TRN-13132-00b3e,GroundTruth_SCA_Bodyform Blackliner_300x250,"2,019",1,GBP,£10.92
+2017_08_07,SCA_UK_Zenith,svn_EDU,Secondary & Adult Ed,3,0,GBP,£0.02
+2017_08_07,SCA_UK_Zenith,361954,Sublime Skinz_SCA_Bodyform Blackliner 2,"9,677",147,GBP,£242.03
+2017_08_07,SCA_UK_Zenith,TRN-13132-00b3d,GroundTruth_SCA_Bodyform Blackliner_320x50,"9,687",26,GBP,£52.58
+2017_08_07,SCA_UK_Zenith,svn_FINANCE,Financial Investors,4,0,GBP,£0.02
+2017_08_07,SCA_UK_Zenith,svn_HOME,Home Improvement,1,0,GBP,£0.00
+2017_08_07,SCA_UK_Zenith,svn_NEWS,Newshounds,4,0,GBP,£0.02
+2017_08_07,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | Standard,140,0,GBP,£1.62
+2017_08_07,SCA_UK_Zenith,Unknown,Unknown,"330,458",328,GBP,"£1,065.66"
+2017_08_07,SCA_UK_Zenith,svn_BUSINESS,Business Buffs,2,0,GBP,£0.01
+2017_08_07,SCA_UK_Zenith,svn_PETS,Pet Lovers,4,0,GBP,£0.02
+2017_08_07,SCA_UK_Zenith,svn_SCIENCE,Science Buffs,7,0,GBP,£0.04
+2017_08_07,SCA_UK_Zenith,Sovrn_HV1,High Viewability,3,0,GBP,£0.02
+2017_08_07,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | 970x250,283,1,GBP,£4.80
+2017_08_07,SCA_UK_Zenith,OX-MPO-dlJ58A,AO - OpenX RTB - Various - OX-MPO-dlJ58A,65,0,GBP,£0.27
+2017_08_07,SCA_UK_Zenith,TRN-13132-00bff,GroundTruth_SCA_Bodyform Blackliner_320x480 2,739,3,GBP,£7.99
+2017_08_07,SCA_UK_Zenith,svn_STYLE,Fashionistas,4,0,GBP,£0.02
+2017_08_08,SCA_UK_Zenith,svn_ARTS,Arts & Popular Media,5,0,GBP,£0.03
+2017_08_08,SCA_UK_Zenith,svn_EDU,Secondary & Adult Ed,2,0,GBP,£0.01
+2017_08_08,SCA_UK_Zenith,361954,Sublime Skinz_SCA_Bodyform Blackliner 2,"9,703",130,GBP,£242.54
+2017_08_08,SCA_UK_Zenith,TRN-13132-00b3d,GroundTruth_SCA_Bodyform Blackliner_320x50,"8,213",26,GBP,£44.52
+2017_08_08,SCA_UK_Zenith,357293,Playground XYZ_SCA_Bodyform Blackliner,"2,942",54,GBP,£68.48
+2017_08_08,SCA_UK_Zenith,TRN-13132-00b3e,GroundTruth_SCA_Bodyform Blackliner_300x250,"1,843",3,GBP,£9.97
+2017_08_08,SCA_UK_Zenith,svn_TRAVEL,Jet Setters,1,0,GBP,£0.01
+2017_08_08,SCA_UK_Zenith,svn_FINANCE,Financial Investors,2,0,GBP,£0.01
+2017_08_08,SCA_UK_Zenith,svn_HOME,Home Improvement,2,0,GBP,£0.01
+2017_08_08,SCA_UK_Zenith,Sovrn_HV1,High Viewability,5,0,GBP,£0.03
+2017_08_08,SCA_UK_Zenith,svn_NEWS,Newshounds,3,0,GBP,£0.01
+2017_08_08,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | 970x250,603,0,GBP,£10.22
+2017_08_08,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | Standard,308,0,GBP,£3.56
+2017_08_08,SCA_UK_Zenith,OX-MPO-dlJ58A,AO - OpenX RTB - Various - OX-MPO-dlJ58A,105,0,GBP,£0.50
+2017_08_08,SCA_UK_Zenith,Unknown,Unknown,"347,399",305,GBP,"£1,056.02"
+2017_08_08,SCA_UK_Zenith,svn_BUSINESS,Business Buffs,6,0,GBP,£0.03
+2017_08_08,SCA_UK_Zenith,svn_SCIENCE,Science Buffs,7,0,GBP,£0.04
+2017_08_08,SCA_UK_Zenith,svn_STYLE,Fashionistas,2,0,GBP,£0.01
+2017_08_08,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | 300x600,41,0,GBP,£0.57
+2017_08_08,SCA_UK_Zenith,TRN-13132-00bff,GroundTruth_SCA_Bodyform Blackliner_320x480 2,"1,004",5,GBP,£10.80
+2017_08_08,SCA_UK_Zenith,svn_FAMILY,Family Matters,1,0,GBP,£0.00
+2017_08_09,SCA_UK_Zenith,361954,Sublime Skinz_SCA_Bodyform Blackliner 2,"9,683",119,GBP,£242.26
+2017_08_09,SCA_UK_Zenith,TRN-13132-00b3d,GroundTruth_SCA_Bodyform Blackliner_320x50,"8,715",29,GBP,£47.39
+2017_08_09,SCA_UK_Zenith,TRN-13132-00bff,GroundTruth_SCA_Bodyform Blackliner_320x480 2,900,12,GBP,£9.70
+2017_08_09,SCA_UK_Zenith,svn_AUTOMOTIVE,Car Lovers,1,0,GBP,£0.01
+2017_08_09,SCA_UK_Zenith,svn_HEALTH,Health Gurus,2,0,GBP,£0.01
+2017_08_09,SCA_UK_Zenith,7.63725E+17,"CN UK | Glamour UK Health | 300x250, 300x50, 728x90",2,0,GBP,£0.03
+2017_08_09,SCA_UK_Zenith,svn_ARTS,Arts & Popular Media,21,0,GBP,£0.11
+2017_08_09,SCA_UK_Zenith,svn_FOOD,Foodies,8,0,GBP,£0.04
+2017_08_09,SCA_UK_Zenith,svn_HOBBIES,Hobbyists,1,0,GBP,£0.00
+2017_08_09,SCA_UK_Zenith,357293,Playground XYZ_SCA_Bodyform Blackliner,"2,965",65,GBP,£68.78
+2017_08_09,SCA_UK_Zenith,TRN-13132-00b3e,GroundTruth_SCA_Bodyform Blackliner_300x250,"1,605",0,GBP,£8.69
+2017_08_09,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | 970x250,"1,106",1,GBP,£18.70
+2017_08_09,SCA_UK_Zenith,OX-MPO-dlJ58A,AO - OpenX RTB - Various - OX-MPO-dlJ58A,67,0,GBP,£0.31
+2017_08_09,SCA_UK_Zenith,svn_FINANCE,Financial Investors,2,0,GBP,£0.01
+2017_08_09,SCA_UK_Zenith,svn_HOME,Home Improvement,1,0,GBP,£0.01
+2017_08_09,SCA_UK_Zenith,svn_SPORTS,Sports Enthusiats,2,0,GBP,£0.01
+2017_08_09,SCA_UK_Zenith,svn_TECH,Gadget Fans,1,0,GBP,£0.00
+2017_08_09,SCA_UK_Zenith,svn_NEWS,Newshounds,1,0,GBP,£0.01
+2017_08_09,SCA_UK_Zenith,svn_STYLE,Fashionistas,2,0,GBP,£0.01
+2017_08_09,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | Standard,359,0,GBP,£4.14
+2017_08_09,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | 300x600,91,0,GBP,£1.26
+2017_08_09,SCA_UK_Zenith,Unknown,Unknown,"375,052",441,GBP,"£1,047.96"
+2017_08_09,SCA_UK_Zenith,svn_BUSINESS,Business Buffs,5,0,GBP,£0.03
+2017_08_09,SCA_UK_Zenith,svn_SCIENCE,Science Buffs,2,0,GBP,£0.01
+2017_08_09,SCA_UK_Zenith,svn_EDU,Secondary & Adult Ed,3,0,GBP,£0.02
+2017_08_10,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | 300x600,73,0,GBP,£1.02
+2017_08_10,SCA_UK_Zenith,7.63725E+17,"CN UK | Glamour UK Health | 320x480, 300x600, 970x250",1,0,GBP,£0.03
+2017_08_10,SCA_UK_Zenith,357293,Playground XYZ_SCA_Bodyform Blackliner,"2,965",47,GBP,£69.10
+2017_08_10,SCA_UK_Zenith,OX-pmc-Vude2j,AO - OpenX - PMC - OX-pmc-Vude2j,1,0,GBP,£0.00
+2017_08_10,SCA_UK_Zenith,TRN-13132-00b3e,GroundTruth_SCA_Bodyform Blackliner_300x250,"1,994",8,GBP,£10.81
+2017_08_10,SCA_UK_Zenith,svn_EDU,Secondary & Adult Ed,1,0,GBP,£0.01
+2017_08_10,SCA_UK_Zenith,361954,Sublime Skinz_SCA_Bodyform Blackliner 2,"9,629",115,GBP,£242.02
+2017_08_10,SCA_UK_Zenith,TRN-13132-00b3d,GroundTruth_SCA_Bodyform Blackliner_320x50,"9,229",38,GBP,£50.14
+2017_08_10,SCA_UK_Zenith,svn_FINANCE,Financial Investors,1,0,GBP,£0.01
+2017_08_10,SCA_UK_Zenith,svn_HOME,Home Improvement,2,0,GBP,£0.01
+2017_08_10,SCA_UK_Zenith,svn_LAWGOVT,Politicos,4,0,GBP,£0.02
+2017_08_10,SCA_UK_Zenith,7.63725E+17,"CN UK | Glamour UK Health | 300x250, 300x50, 728x90",51,0,GBP,£0.79
+2017_08_10,SCA_UK_Zenith,svn_FOOD,Foodies,13,0,GBP,£0.07
+2017_08_10,SCA_UK_Zenith,svn_NEWS,Newshounds,1,0,GBP,£0.01
+2017_08_10,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | Standard,343,0,GBP,£3.97
+2017_08_10,SCA_UK_Zenith,Unknown,Unknown,"356,350",427,GBP,"£1,050.43"
+2017_08_10,SCA_UK_Zenith,svn_BUSINESS,Business Buffs,3,0,GBP,£0.02
+2017_08_10,SCA_UK_Zenith,svn_SCIENCE,Science Buffs,6,0,GBP,£0.03
+2017_08_10,SCA_UK_Zenith,Sovrn_HV1,High Viewability,4,0,GBP,£0.02
+2017_08_10,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | 970x250,978,0,GBP,£16.58
+2017_08_10,SCA_UK_Zenith,OX-MPO-dlJ58A,AO - OpenX RTB - Various - OX-MPO-dlJ58A,57,0,GBP,£0.26
+2017_08_10,SCA_UK_Zenith,TRN-13132-00bff,GroundTruth_SCA_Bodyform Blackliner_320x480 2,866,2,GBP,£9.34
+2017_08_10,SCA_UK_Zenith,svn_AUTOMOTIVE,Car Lovers,2,0,GBP,£0.01
+2017_08_10,SCA_UK_Zenith,svn_FAMILY,Family Matters,1,0,GBP,£0.00
+2017_08_10,SCA_UK_Zenith,svn_HEALTH,Health Gurus,4,0,GBP,£0.02
+2017_08_10,SCA_UK_Zenith,svn_SPORTS,Sports Enthusiats,2,0,GBP,£0.01
+2017_08_10,SCA_UK_Zenith,svn_TECH,Gadget Fans,8,0,GBP,£0.04
+2017_08_10,SCA_UK_Zenith,OX-jus-46eZCE,AO - OpenX - Just Premium,1,0,GBP,£0.01
+2017_08_10,SCA_UK_Zenith,svn_ARTS,Arts & Popular Media,22,1,GBP,£0.12
+2017_08_10,SCA_UK_Zenith,svn_HOBBIES,Hobbyists,2,0,GBP,£0.01
+2017_08_10,SCA_UK_Zenith,svn_STYLE,Fashionistas,1,0,GBP,£0.00
+2017_08_11,SCA_UK_Zenith,OX-pmc-Vude2j,AO - OpenX - PMC - OX-pmc-Vude2j,1,0,GBP,£0.00
+2017_08_11,SCA_UK_Zenith,svn_ARTS,Arts & Popular Media,22,0,GBP,£0.12
+2017_08_11,SCA_UK_Zenith,svn_HOBBIES,Hobbyists,1,0,GBP,£0.01
+2017_08_11,SCA_UK_Zenith,361954,Sublime Skinz_SCA_Bodyform Blackliner 2,"9,616",130,GBP,£241.44
+2017_08_11,SCA_UK_Zenith,TRN-13132-00b3d,GroundTruth_SCA_Bodyform Blackliner_320x50,"9,138",29,GBP,£49.67
+2017_08_11,SCA_UK_Zenith,357293,Playground XYZ_SCA_Bodyform Blackliner,"2,986",50,GBP,£69.50
+2017_08_11,SCA_UK_Zenith,7.63725E+17,"CN UK | Glamour UK Health | 300x250, 300x50, 728x90",4,0,GBP,£0.06
+2017_08_11,SCA_UK_Zenith,TRN-13132-00b3e,GroundTruth_SCA_Bodyform Blackliner_300x250,"1,857",4,GBP,£10.05
+2017_08_11,SCA_UK_Zenith,svn_FOOD,Foodies,7,0,GBP,£0.04
+2017_08_11,SCA_UK_Zenith,svn_FINANCE,Financial Investors,2,0,GBP,£0.01
+2017_08_11,SCA_UK_Zenith,svn_HOME,Home Improvement,3,0,GBP,£0.02
+2017_08_11,SCA_UK_Zenith,svn_LAWGOVT,Politicos,1,0,GBP,£0.01
+2017_08_11,SCA_UK_Zenith,Sovrn_HV1,High Viewability,7,0,GBP,£0.04
+2017_08_11,SCA_UK_Zenith,svn_NEWS,Newshounds,1,0,GBP,£0.01
+2017_08_11,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | 970x250,371,0,GBP,£6.28
+2017_08_11,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | Standard,521,1,GBP,£6.04
+2017_08_11,SCA_UK_Zenith,OX-MPO-dlJ58A,AO - OpenX RTB - Various - OX-MPO-dlJ58A,60,0,GBP,£0.25
+2017_08_11,SCA_UK_Zenith,Unknown,Unknown,"320,394",403,GBP,"£1,059.57"
+2017_08_11,SCA_UK_Zenith,svn_BUSINESS,Business Buffs,3,0,GBP,£0.02
+2017_08_11,SCA_UK_Zenith,svn_SCIENCE,Science Buffs,4,0,GBP,£0.02
+2017_08_11,SCA_UK_Zenith,svn_SPORTS,Sports Enthusiats,1,0,GBP,£0.01
+2017_08_11,SCA_UK_Zenith,svn_TECH,Gadget Fans,6,0,GBP,£0.03
+2017_08_11,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | 300x600,31,0,GBP,£0.44
+2017_08_11,SCA_UK_Zenith,7.63725E+17,"CN UK | Glamour UK Health | 320x480, 300x600, 970x250",4,0,GBP,£0.13
+2017_08_11,SCA_UK_Zenith,TRN-13132-00bff,GroundTruth_SCA_Bodyform Blackliner_320x480 2,"1,354",10,GBP,£14.62
+2017_08_11,SCA_UK_Zenith,svn_AUTOMOTIVE,Car Lovers,2,0,GBP,£0.01
+2017_08_11,SCA_UK_Zenith,svn_HEALTH,Health Gurus,2,0,GBP,£0.01
+2017_08_12,SCA_UK_Zenith,361954,Sublime Skinz_SCA_Bodyform Blackliner 2,"9,033",141,GBP,£226.87
+2017_08_12,SCA_UK_Zenith,TRN-13132-00b3d,GroundTruth_SCA_Bodyform Blackliner_320x50,"7,596",29,GBP,£41.17
+2017_08_12,SCA_UK_Zenith,TRN-13132-00bff,GroundTruth_SCA_Bodyform Blackliner_320x480 2,696,8,GBP,£7.56
+2017_08_12,SCA_UK_Zenith,svn_AUTOMOTIVE,Car Lovers,1,0,GBP,£0.01
+2017_08_12,SCA_UK_Zenith,svn_HEALTH,Health Gurus,4,0,GBP,£0.02
+2017_08_12,SCA_UK_Zenith,7.63725E+17,"CN UK | Glamour UK Health | 300x250, 300x50, 728x90",1,0,GBP,£0.02
+2017_08_12,SCA_UK_Zenith,OX-jus-46eZCE,AO - OpenX - Just Premium,2,0,GBP,£0.02
+2017_08_12,SCA_UK_Zenith,svn_ARTS,Arts & Popular Media,20,0,GBP,£0.11
+2017_08_12,SCA_UK_Zenith,svn_FOOD,Foodies,9,0,GBP,£0.05
+2017_08_12,SCA_UK_Zenith,svn_HOBBIES,Hobbyists,2,0,GBP,£0.01
+2017_08_12,SCA_UK_Zenith,357293,Playground XYZ_SCA_Bodyform Blackliner,"3,612",71,GBP,£84.26
+2017_08_12,SCA_UK_Zenith,Sovrn_HV1,High Viewability,1,0,GBP,£0.00
+2017_08_12,SCA_UK_Zenith,TRN-13132-00b3e,GroundTruth_SCA_Bodyform Blackliner_300x250,"1,654",2,GBP,£8.96
+2017_08_12,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | 970x250,1,0,GBP,£0.02
+2017_08_12,SCA_UK_Zenith,OX-MPO-dlJ58A,AO - OpenX RTB - Various - OX-MPO-dlJ58A,67,0,GBP,£0.32
+2017_08_12,SCA_UK_Zenith,svn_HOME,Home Improvement,1,0,GBP,£0.01
+2017_08_12,SCA_UK_Zenith,svn_LAWGOVT,Politicos,2,0,GBP,£0.01
+2017_08_12,SCA_UK_Zenith,svn_SPORTS,Sports Enthusiats,2,0,GBP,£0.01
+2017_08_12,SCA_UK_Zenith,svn_TECH,Gadget Fans,3,0,GBP,£0.02
+2017_08_12,SCA_UK_Zenith,svn_NEWS,Newshounds,0,1,GBP,
+2017_08_12,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | Standard,6,0,GBP,£0.07
+2017_08_12,SCA_UK_Zenith,Unknown,Unknown,"337,127",412,GBP,"£1,071.34"
+2017_08_12,SCA_UK_Zenith,svn_PETS,Pet Lovers,3,0,GBP,£0.02
+2017_08_12,SCA_UK_Zenith,svn_SCIENCE,Science Buffs,1,0,GBP,£0.01
+2017_08_13,SCA_UK_Zenith,7.63725E+17,"CN UK | Glamour UK Health | 300x250, 300x50, 728x90",4,0,GBP,£0.06
+2017_08_13,SCA_UK_Zenith,svn_FOOD,Foodies,6,0,GBP,£0.04
+2017_08_13,SCA_UK_Zenith,TRN-13132-00bff,GroundTruth_SCA_Bodyform Blackliner_320x480 2,996,7,GBP,£10.72
+2017_08_13,SCA_UK_Zenith,svn_AUTOMOTIVE,Car Lovers,1,0,GBP,£0.01
+2017_08_13,SCA_UK_Zenith,svn_HEALTH,Health Gurus,1,0,GBP,£0.01
+2017_08_13,SCA_UK_Zenith,Sovrn_HV1,High Viewability,3,0,GBP,£0.01
+2017_08_13,SCA_UK_Zenith,svn_ARTS,Arts & Popular Media,23,0,GBP,£0.13
+2017_08_13,SCA_UK_Zenith,svn_HOBBIES,Hobbyists,2,0,GBP,£0.01
+2017_08_13,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | 970x250,235,0,GBP,£3.98
+2017_08_13,SCA_UK_Zenith,OX-MPO-dlJ58A,AO - OpenX RTB - Various - OX-MPO-dlJ58A,52,0,GBP,£0.24
+2017_08_13,SCA_UK_Zenith,svn_SPORTS,Sports Enthusiats,1,0,GBP,£0.01
+2017_08_13,SCA_UK_Zenith,svn_TECH,Gadget Fans,3,0,GBP,£0.02
+2017_08_13,SCA_UK_Zenith,357293,Playground XYZ_SCA_Bodyform Blackliner,"3,294",51,GBP,£76.79
+2017_08_13,SCA_UK_Zenith,TRN-13132-0079a,AO - Rubicon - xAd - CPG,0,1,GBP,
+2017_08_13,SCA_UK_Zenith,TRN-13132-00b3e,GroundTruth_SCA_Bodyform Blackliner_300x250,"1,887",5,GBP,£10.21
+2017_08_13,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | 300x600,22,0,GBP,£0.31
+2017_08_13,SCA_UK_Zenith,7.63725E+17,"CN UK | Glamour UK Health | 320x480, 300x600, 970x250",3,0,GBP,£0.09
+2017_08_13,SCA_UK_Zenith,OX-33a-bWjc5I,AO - OpenX RTB - 33Across - OX-33a-bWjc5I,2,0,GBP,£0.01
+2017_08_13,SCA_UK_Zenith,svn_LAWGOVT,Politicos,2,0,GBP,£0.01
+2017_08_13,SCA_UK_Zenith,svn_EDU,Secondary & Adult Ed,2,0,GBP,£0.01
+2017_08_13,SCA_UK_Zenith,svn_NEWS,Newshounds,1,0,GBP,£0.01
+2017_08_13,SCA_UK_Zenith,361954,Sublime Skinz_SCA_Bodyform Blackliner 2,"9,337",149,GBP,£234.21
+2017_08_13,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | Standard,10,0,GBP,£0.12
+2017_08_13,SCA_UK_Zenith,TRN-13132-00b3d,GroundTruth_SCA_Bodyform Blackliner_320x50,"7,626",24,GBP,£41.37
+2017_08_13,SCA_UK_Zenith,Unknown,Unknown,"335,363",423,GBP,"£1,068.87"
+2017_08_13,SCA_UK_Zenith,svn_PETS,Pet Lovers,1,0,GBP,£0.01
+2017_08_14,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | Standard,436,1,GBP,£5.06
+2017_08_14,SCA_UK_Zenith,Unknown,Unknown,"342,925",376,GBP,"£1,059.64"
+2017_08_14,SCA_UK_Zenith,svn_BUSINESS,Business Buffs,3,0,GBP,£0.02
+2017_08_14,SCA_UK_Zenith,svn_PETS,Pet Lovers,1,0,GBP,£0.01
+2017_08_14,SCA_UK_Zenith,svn_SCIENCE,Science Buffs,2,0,GBP,£0.01
+2017_08_14,SCA_UK_Zenith,Sovrn_HV1,High Viewability,2,0,GBP,£0.01
+2017_08_14,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | 970x250,273,0,GBP,£4.63
+2017_08_14,SCA_UK_Zenith,OX-MPO-dlJ58A,AO - OpenX RTB - Various - OX-MPO-dlJ58A,53,1,GBP,£0.24
+2017_08_14,SCA_UK_Zenith,TRN-13132-00bff,GroundTruth_SCA_Bodyform Blackliner_320x480 2,"1,198",9,GBP,£12.92
+2017_08_14,SCA_UK_Zenith,svn_AUTOMOTIVE,Car Lovers,1,0,GBP,£0.01
+2017_08_14,SCA_UK_Zenith,svn_HEALTH,Health Gurus,2,0,GBP,£0.01
+2017_08_14,SCA_UK_Zenith,svn_SPORTS,Sports Enthusiats,1,0,GBP,£0.01
+2017_08_14,SCA_UK_Zenith,svn_TECH,Gadget Fans,16,0,GBP,£0.09
+2017_08_14,SCA_UK_Zenith,OX-jus-46eZCE,AO - OpenX - Just Premium,1,0,GBP,£0.01
+2017_08_14,SCA_UK_Zenith,TRN-13132-0079a,AO - Rubicon - xAd - CPG,2,1,GBP,£0.01
+2017_08_14,SCA_UK_Zenith,svn_ARTS,Arts & Popular Media,19,0,GBP,£0.11
+2017_08_14,SCA_UK_Zenith,svn_HOBBIES,Hobbyists,2,0,GBP,£0.01
+2017_08_14,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | 300x600,19,0,GBP,£0.27
+2017_08_14,SCA_UK_Zenith,7.63725E+17,"CN UK | Glamour UK Health | 320x480, 300x600, 970x250",1,0,GBP,£0.03
+2017_08_14,SCA_UK_Zenith,357293,Playground XYZ_SCA_Bodyform Blackliner,"3,455",46,GBP,£80.55
+2017_08_14,SCA_UK_Zenith,OX-pmc-Vude2j,AO - OpenX - PMC - OX-pmc-Vude2j,1,0,GBP,£0.00
+2017_08_14,SCA_UK_Zenith,TRN-13132-00b3e,GroundTruth_SCA_Bodyform Blackliner_300x250,"1,812",4,GBP,£9.81
+2017_08_14,SCA_UK_Zenith,361954,Sublime Skinz_SCA_Bodyform Blackliner 2,"9,190",114,GBP,£230.52
+2017_08_14,SCA_UK_Zenith,TRN-13132-00b3d,GroundTruth_SCA_Bodyform Blackliner_320x50,"7,432",25,GBP,£40.42
+2017_08_14,SCA_UK_Zenith,svn_HOME,Home Improvement,1,0,GBP,£0.01
+2017_08_14,SCA_UK_Zenith,svn_LAWGOVT,Politicos,3,0,GBP,£0.02
+2017_08_14,SCA_UK_Zenith,7.63725E+17,"CN UK | Glamour UK Health | 300x250, 300x50, 728x90",285,0,GBP,£4.38
+2017_08_14,SCA_UK_Zenith,svn_FOOD,Foodies,3,0,GBP,£0.02
+2017_08_15,SCA_UK_Zenith,Sovrn_HV1,High Viewability,3,0,GBP,£0.01
+2017_08_15,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | 970x250,269,1,GBP,£4.55
+2017_08_15,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | Standard,601,0,GBP,£6.92
+2017_08_15,SCA_UK_Zenith,OX-MPO-dlJ58A,AO - OpenX RTB - Various - OX-MPO-dlJ58A,48,0,GBP,£0.23
+2017_08_15,SCA_UK_Zenith,Unknown,Unknown,"442,783",385,GBP,"£1,057.39"
+2017_08_15,SCA_UK_Zenith,svn_BUSINESS,Business Buffs,4,0,GBP,£0.02
+2017_08_15,SCA_UK_Zenith,svn_SCIENCE,Science Buffs,3,0,GBP,£0.02
+2017_08_15,SCA_UK_Zenith,svn_SPORTS,Sports Enthusiats,2,0,GBP,£0.01
+2017_08_15,SCA_UK_Zenith,svn_TECH,Gadget Fans,7,0,GBP,£0.03
+2017_08_15,SCA_UK_Zenith,TRN-13132-0079a,AO - Rubicon - xAd - CPG,3,1,GBP,£0.01
+2017_08_15,SCA_UK_Zenith,svn_STYLE,Fashionistas,1,0,GBP,£0.01
+2017_08_15,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | 300x600,29,0,GBP,£0.41
+2017_08_15,SCA_UK_Zenith,7.63725E+17,"CN UK | Glamour UK Health | 320x480, 300x600, 970x250",2,0,GBP,£0.06
+2017_08_15,SCA_UK_Zenith,TRN-13132-00bff,GroundTruth_SCA_Bodyform Blackliner_320x480 2,"1,364",9,GBP,£14.70
+2017_08_15,SCA_UK_Zenith,svn_AUTOMOTIVE,Car Lovers,1,0,GBP,£0.01
+2017_08_15,SCA_UK_Zenith,svn_HEALTH,Health Gurus,1,0,GBP,£0.00
+2017_08_15,SCA_UK_Zenith,OX-dip-EiENas,AO - OpenX RTB - GoViral Inc. - OX-dip-EiENas,1,0,GBP,£0.01
+2017_08_15,SCA_UK_Zenith,OX-pmc-Vude2j,AO - OpenX - PMC - OX-pmc-Vude2j,1,0,GBP,£0.00
+2017_08_15,SCA_UK_Zenith,svn_ARTS,Arts & Popular Media,13,0,GBP,£0.07
+2017_08_15,SCA_UK_Zenith,svn_HOBBIES,Hobbyists,1,0,GBP,£0.01
+2017_08_15,SCA_UK_Zenith,361954,Sublime Skinz_SCA_Bodyform Blackliner 2,"9,267",133,GBP,£232.37
+2017_08_15,SCA_UK_Zenith,TRN-13132-00b3d,GroundTruth_SCA_Bodyform Blackliner_320x50,"8,523",20,GBP,£46.47
+2017_08_15,SCA_UK_Zenith,357293,Playground XYZ_SCA_Bodyform Blackliner,"3,374",31,GBP,£78.63
+2017_08_15,SCA_UK_Zenith,7.63725E+17,"CN UK | Glamour UK Health | 300x250, 300x50, 728x90",288,0,GBP,£4.41
+2017_08_15,SCA_UK_Zenith,TRN-13132-00b3e,GroundTruth_SCA_Bodyform Blackliner_300x250,"1,993",1,GBP,£10.79
+2017_08_15,SCA_UK_Zenith,svn_FOOD,Foodies,2,1,GBP,£0.01
+2017_08_15,SCA_UK_Zenith,svn_TRAVEL,Jet Setters,1,0,GBP,£0.01
+2017_08_15,SCA_UK_Zenith,svn_LAWGOVT,Politicos,1,0,GBP,£0.00
+2017_08_16,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | 970x250,657,0,GBP,£11.05
+2017_08_16,SCA_UK_Zenith,OX-33a-bWjc5I,AO - OpenX RTB - 33Across - OX-33a-bWjc5I,3,0,GBP,£0.01
+2017_08_16,SCA_UK_Zenith,OX-MPO-dlJ58A,AO - OpenX RTB - Various - OX-MPO-dlJ58A,27,2,GBP,£0.11
+2017_08_16,SCA_UK_Zenith,svn_LAWGOVT,Politicos,2,0,GBP,£0.01
+2017_08_16,SCA_UK_Zenith,svn_SPORTS,Sports Enthusiats,2,0,GBP,£0.01
+2017_08_16,SCA_UK_Zenith,svn_TECH,Gadget Fans,8,0,GBP,£0.04
+2017_08_16,SCA_UK_Zenith,TRN-13132-0079a,AO - Rubicon - xAd - CPG,3,1,GBP,£0.01
+2017_08_16,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | Standard,614,0,GBP,£7.07
+2017_08_16,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | 300x600,57,0,GBP,£0.79
+2017_08_16,SCA_UK_Zenith,7.63725E+17,"CN UK | Glamour UK Health | 320x480, 300x600, 970x250",2,0,GBP,£0.06
+2017_08_16,SCA_UK_Zenith,Unknown,Unknown,"435,867",338,GBP,"£1,051.21"
+2017_08_16,SCA_UK_Zenith,svn_BUSINESS,Business Buffs,2,0,GBP,£0.01
+2017_08_16,SCA_UK_Zenith,361954,Sublime Skinz_SCA_Bodyform Blackliner 2,"6,754",100,GBP,£170.02
+2017_08_16,SCA_UK_Zenith,TRN-13132-00b3d,GroundTruth_SCA_Bodyform Blackliner_320x50,"8,640",28,GBP,£47.30
+2017_08_16,SCA_UK_Zenith,TRN-13132-00bff,GroundTruth_SCA_Bodyform Blackliner_320x480 2,"1,368",6,GBP,£14.75
+2017_08_16,SCA_UK_Zenith,svn_HEALTH,Health Gurus,3,0,GBP,£0.01
+2017_08_16,SCA_UK_Zenith,7.63725E+17,"CN UK | Glamour UK Health | 300x250, 300x50, 728x90",240,0,GBP,£3.67
+2017_08_16,SCA_UK_Zenith,svn_ARTS,Arts & Popular Media,9,0,GBP,£0.05
+2017_08_16,SCA_UK_Zenith,svn_FOOD,Foodies,5,0,GBP,£0.02
+2017_08_16,SCA_UK_Zenith,svn_HOBBIES,Hobbyists,1,0,GBP,£0.00
+2017_08_16,SCA_UK_Zenith,357293,Playground XYZ_SCA_Bodyform Blackliner,"6,061",48,GBP,£140.12
+2017_08_16,SCA_UK_Zenith,Sovrn_HV1,High Viewability,8,0,GBP,£0.04
+2017_08_16,SCA_UK_Zenith,TRN-13132-00b3e,GroundTruth_SCA_Bodyform Blackliner_300x250,"2,503",7,GBP,£13.59
+2017_08_17,SCA_UK_Zenith,357293,Playground XYZ_SCA_Bodyform Blackliner,"6,054",67,GBP,£140.92
+2017_08_17,SCA_UK_Zenith,TRN-13132-00b3e,GroundTruth_SCA_Bodyform Blackliner_300x250,"2,770",5,GBP,£15.11
+2017_08_17,SCA_UK_Zenith,svn_STYLE,Fashionistas,1,0,GBP,£0.00
+2017_08_17,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | 300x600,88,0,GBP,£1.23
+2017_08_17,SCA_UK_Zenith,7.63725E+17,"CN UK | Glamour UK Health | 320x480, 300x600, 970x250",2,0,GBP,£0.06
+2017_08_17,SCA_UK_Zenith,svn_LAWGOVT,Politicos,2,0,GBP,£0.01
+2017_08_17,SCA_UK_Zenith,svn_EDU,Secondary & Adult Ed,1,0,GBP,£0.01
+2017_08_17,SCA_UK_Zenith,361954,Sublime Skinz_SCA_Bodyform Blackliner 2,"6,705",99,GBP,£170.02
+2017_08_17,SCA_UK_Zenith,TRN-13132-00b3d,GroundTruth_SCA_Bodyform Blackliner_320x50,"8,316",38,GBP,£45.56
+2017_08_17,SCA_UK_Zenith,Unknown,Unknown,"435,548",338,GBP,"£1,052.96"
+2017_08_17,SCA_UK_Zenith,svn_BUSINESS,Business Buffs,7,0,GBP,£0.03
+2017_08_17,SCA_UK_Zenith,svn_PETS,Pet Lovers,3,0,GBP,£0.02
+2017_08_17,SCA_UK_Zenith,7.63725E+17,"CN UK | Glamour UK Health | 300x250, 300x50, 728x90",130,0,GBP,£2.01
+2017_08_17,SCA_UK_Zenith,svn_FOOD,Foodies,9,0,GBP,£0.05
+2017_08_17,SCA_UK_Zenith,TRN-13132-00bff,GroundTruth_SCA_Bodyform Blackliner_320x480 2,357,5,GBP,£3.93
+2017_08_17,SCA_UK_Zenith,svn_AUTOMOTIVE,Car Lovers,1,0,GBP,£0.00
+2017_08_17,SCA_UK_Zenith,svn_HEALTH,Health Gurus,1,0,GBP,£0.01
+2017_08_17,SCA_UK_Zenith,Sovrn_HV1,High Viewability,7,0,GBP,£0.03
+2017_08_17,SCA_UK_Zenith,svn_ARTS,Arts & Popular Media,24,0,GBP,£0.11
+2017_08_17,SCA_UK_Zenith,svn_HOBBIES,Hobbyists,1,0,GBP,£0.00
+2017_08_17,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | 970x250,973,0,GBP,£16.52
+2017_08_17,SCA_UK_Zenith,OX-MPO-dlJ58A,AO - OpenX RTB - Various - OX-MPO-dlJ58A,42,0,GBP,£0.18
+2017_08_17,SCA_UK_Zenith,svn_SPORTS,Sports Enthusiats,1,0,GBP,£0.00
+2017_08_17,SCA_UK_Zenith,svn_TECH,Gadget Fans,12,0,GBP,£0.06
+2017_08_18,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | 300x600,29,1,GBP,£0.41
+2017_08_18,SCA_UK_Zenith,7.63725E+17,"CN UK | Glamour UK Health | 320x480, 300x600, 970x250",6,0,GBP,£0.19
+2017_08_18,SCA_UK_Zenith,357293,Playground XYZ_SCA_Bodyform Blackliner,"5,206",49,GBP,£121.02
+2017_08_18,SCA_UK_Zenith,OX-pmc-Vude2j,AO - OpenX - PMC - OX-pmc-Vude2j,1,0,GBP,£0.00
+2017_08_18,SCA_UK_Zenith,TRN-13132-00b3e,GroundTruth_SCA_Bodyform Blackliner_300x250,"2,830",1,GBP,£15.47
+2017_08_18,SCA_UK_Zenith,361954,Sublime Skinz_SCA_Bodyform Blackliner 2,"6,723",91,GBP,£170.00
+2017_08_18,SCA_UK_Zenith,TRN-13132-00b3d,GroundTruth_SCA_Bodyform Blackliner_320x50,"9,173",30,GBP,£50.25
+2017_08_18,SCA_UK_Zenith,svn_HOME,Home Improvement,1,0,GBP,£0.00
+2017_08_18,SCA_UK_Zenith,7.63725E+17,"CN UK | Glamour UK Health | 300x250, 300x50, 728x90",82,0,GBP,£1.26
+2017_08_18,SCA_UK_Zenith,svn_FOOD,Foodies,9,0,GBP,£0.04
+2017_08_18,SCA_UK_Zenith,Unknown,Unknown,"433,419",369,GBP,"£1,185.89"
+2017_08_18,SCA_UK_Zenith,svn_BUSINESS,Business Buffs,6,0,GBP,£0.03
+2017_08_18,SCA_UK_Zenith,svn_SCIENCE,Science Buffs,3,0,GBP,£0.02
+2017_08_18,SCA_UK_Zenith,Sovrn_HV1,High Viewability,23,0,GBP,£0.10
+2017_08_18,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | 970x250,202,0,GBP,£3.42
+2017_08_18,SCA_UK_Zenith,OX-MPO-dlJ58A,AO - OpenX RTB - Various - OX-MPO-dlJ58A,64,0,GBP,£0.26
+2017_08_18,SCA_UK_Zenith,TRN-13132-00bff,GroundTruth_SCA_Bodyform Blackliner_320x480 2,343,0,GBP,£3.72
+2017_08_18,SCA_UK_Zenith,svn_AUTOMOTIVE,Car Lovers,2,0,GBP,£0.01
+2017_08_18,SCA_UK_Zenith,svn_HEALTH,Health Gurus,7,0,GBP,£0.03
+2017_08_18,SCA_UK_Zenith,svn_SPORTS,Sports Enthusiats,2,0,GBP,£0.01
+2017_08_18,SCA_UK_Zenith,svn_TECH,Gadget Fans,5,0,GBP,£0.02
+2017_08_18,SCA_UK_Zenith,TRN-13132-0079a,AO - Rubicon - xAd - CPG,1,0,GBP,£0.00
+2017_08_18,SCA_UK_Zenith,svn_ARTS,Arts & Popular Media,33,0,GBP,£0.15
+2017_08_18,SCA_UK_Zenith,svn_HOBBIES,Hobbyists,2,0,GBP,£0.01
+2017_08_18,SCA_UK_Zenith,svn_STYLE,Fashionistas,3,0,GBP,£0.01
+2017_08_19,SCA_UK_Zenith,svn_ARTS,Arts & Popular Media,30,0,GBP,£0.15
+2017_08_19,SCA_UK_Zenith,svn_HOBBIES,Hobbyists,3,0,GBP,£0.01
+2017_08_19,SCA_UK_Zenith,361954,Sublime Skinz_SCA_Bodyform Blackliner 2,"6,714",92,GBP,£170.02
+2017_08_19,SCA_UK_Zenith,TRN-13132-00b3d,GroundTruth_SCA_Bodyform Blackliner_320x50,"8,035",29,GBP,£43.98
+2017_08_19,SCA_UK_Zenith,357293,Playground XYZ_SCA_Bodyform Blackliner,"6,618",73,GBP,£153.91
+2017_08_19,SCA_UK_Zenith,7.63725E+17,"CN UK | Glamour UK Health | 300x250, 300x50, 728x90",3,0,GBP,£0.05
+2017_08_19,SCA_UK_Zenith,TRN-13132-00b3e,GroundTruth_SCA_Bodyform Blackliner_300x250,"2,345",3,GBP,£12.77
+2017_08_19,SCA_UK_Zenith,svn_FOOD,Foodies,15,0,GBP,£0.07
+2017_08_19,SCA_UK_Zenith,svn_HOME,Home Improvement,2,0,GBP,£0.01
+2017_08_19,SCA_UK_Zenith,svn_LAWGOVT,Politicos,5,0,GBP,£0.03
+2017_08_19,SCA_UK_Zenith,Sovrn_HV1,High Viewability,22,0,GBP,£0.11
+2017_08_19,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | 970x250,188,0,GBP,£3.19
+2017_08_19,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | Standard,12,0,GBP,£0.14
+2017_08_19,SCA_UK_Zenith,OX-MPO-dlJ58A,AO - OpenX RTB - Various - OX-MPO-dlJ58A,70,0,GBP,£0.27
+2017_08_19,SCA_UK_Zenith,Unknown,Unknown,"437,983",399,GBP,"£1,186.81"
+2017_08_19,SCA_UK_Zenith,svn_BUSINESS,Business Buffs,4,0,GBP,£0.02
+2017_08_19,SCA_UK_Zenith,svn_CAREERS,Job Seekers,1,0,GBP,£0.00
+2017_08_19,SCA_UK_Zenith,svn_PETS,Pet Lovers,4,0,GBP,£0.02
+2017_08_19,SCA_UK_Zenith,svn_SCIENCE,Science Buffs,3,0,GBP,£0.01
+2017_08_19,SCA_UK_Zenith,svn_SPORTS,Sports Enthusiats,4,0,GBP,£0.02
+2017_08_19,SCA_UK_Zenith,svn_TECH,Gadget Fans,11,0,GBP,£0.05
+2017_08_19,SCA_UK_Zenith,TRN-13132-0079a,AO - Rubicon - xAd - CPG,0,1,GBP,
+2017_08_19,SCA_UK_Zenith,svn_STYLE,Fashionistas,1,0,GBP,£0.01
+2017_08_19,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | 300x600,31,1,GBP,£0.43
+2017_08_19,SCA_UK_Zenith,7.63725E+17,"CN UK | Glamour UK Health | 320x480, 300x600, 970x250",2,0,GBP,£0.06
+2017_08_19,SCA_UK_Zenith,TRN-13132-00bff,GroundTruth_SCA_Bodyform Blackliner_320x480 2,271,0,GBP,£2.98
+2017_08_19,SCA_UK_Zenith,svn_AUTOMOTIVE,Car Lovers,1,0,GBP,£0.00
+2017_08_20,SCA_UK_Zenith,357293,Playground XYZ_SCA_Bodyform Blackliner,"6,982",79,GBP,£162.53
+2017_08_20,SCA_UK_Zenith,TRN-13132-00b3e,GroundTruth_SCA_Bodyform Blackliner_300x250,"2,178",3,GBP,£11.88
+2017_08_20,SCA_UK_Zenith,svn_STYLE,Fashionistas,1,0,GBP,£0.00
+2017_08_20,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | 300x600,51,0,GBP,£0.72
+2017_08_20,SCA_UK_Zenith,7.63725E+17,"CN UK | Glamour UK Health | 320x480, 300x600, 970x250",6,0,GBP,£0.19
+2017_08_20,SCA_UK_Zenith,svn_LAWGOVT,Politicos,1,0,GBP,£0.01
+2017_08_20,SCA_UK_Zenith,svn_EDU,Secondary & Adult Ed,1,0,GBP,£0.00
+2017_08_20,SCA_UK_Zenith,361954,Sublime Skinz_SCA_Bodyform Blackliner 2,"6,705",80,GBP,£169.95
+2017_08_20,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | Standard,3,0,GBP,£0.03
+2017_08_20,SCA_UK_Zenith,TRN-13132-00b3d,GroundTruth_SCA_Bodyform Blackliner_320x50,"7,572",26,GBP,£41.46
+2017_08_20,SCA_UK_Zenith,Unknown,Unknown,"424,141",385,GBP,"£1,183.93"
+2017_08_20,SCA_UK_Zenith,svn_PETS,Pet Lovers,1,0,GBP,£0.00
+2017_08_20,SCA_UK_Zenith,svn_SCIENCE,Science Buffs,2,0,GBP,£0.01
+2017_08_20,SCA_UK_Zenith,7.63725E+17,"CN UK | Glamour UK Health | 300x250, 300x50, 728x90",5,0,GBP,£0.08
+2017_08_20,SCA_UK_Zenith,svn_FOOD,Foodies,7,0,GBP,£0.03
+2017_08_20,SCA_UK_Zenith,TRN-13132-00bff,GroundTruth_SCA_Bodyform Blackliner_320x480 2,330,2,GBP,£3.62
+2017_08_20,SCA_UK_Zenith,svn_AUTOMOTIVE,Car Lovers,1,0,GBP,£0.00
+2017_08_20,SCA_UK_Zenith,svn_HEALTH,Health Gurus,4,0,GBP,£0.02
+2017_08_20,SCA_UK_Zenith,Sovrn_HV1,High Viewability,9,0,GBP,£0.04
+2017_08_20,SCA_UK_Zenith,svn_ARTS,Arts & Popular Media,25,0,GBP,£0.11
+2017_08_20,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | 970x250,388,0,GBP,£6.59
+2017_08_20,SCA_UK_Zenith,OX-MPO-dlJ58A,AO - OpenX RTB - Various - OX-MPO-dlJ58A,48,0,GBP,£0.19
+2017_08_20,SCA_UK_Zenith,svn_SPORTS,Sports Enthusiats,1,0,GBP,£0.01
+2017_08_20,SCA_UK_Zenith,svn_TECH,Gadget Fans,6,0,GBP,£0.03
+2017_08_21,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | 300x600,70,0,GBP,£0.97
+2017_08_21,SCA_UK_Zenith,7.63725E+17,"CN UK | Glamour UK Health | 320x480, 300x600, 970x250",7,0,GBP,£0.22
+2017_08_21,SCA_UK_Zenith,357293,Playground XYZ_SCA_Bodyform Blackliner,"5,411",64,GBP,£125.96
+2017_08_21,SCA_UK_Zenith,TRN-13132-00b3e,GroundTruth_SCA_Bodyform Blackliner_300x250,"2,338",3,GBP,£12.76
+2017_08_21,SCA_UK_Zenith,361954,Sublime Skinz_SCA_Bodyform Blackliner 2,"6,707",110,GBP,£170.00
+2017_08_21,SCA_UK_Zenith,TRN-13132-00b3d,GroundTruth_SCA_Bodyform Blackliner_320x50,"7,785",20,GBP,£42.65
+2017_08_21,SCA_UK_Zenith,svn_FINANCE,Financial Investors,1,0,GBP,£0.01
+2017_08_21,SCA_UK_Zenith,svn_LAWGOVT,Politicos,3,0,GBP,£0.01
+2017_08_21,SCA_UK_Zenith,7.63725E+17,"CN UK | Glamour UK Health | 300x250, 300x50, 728x90",176,0,GBP,£2.71
+2017_08_21,SCA_UK_Zenith,svn_FOOD,Foodies,5,0,GBP,£0.03
+2017_08_21,SCA_UK_Zenith,svn_TRAVEL,Jet Setters,1,0,GBP,£0.01
+2017_08_21,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | Standard,541,1,GBP,£6.26
+2017_08_21,SCA_UK_Zenith,Unknown,Unknown,"378,545",322,GBP,"£1,014.13"
+2017_08_21,SCA_UK_Zenith,svn_BUSINESS,Business Buffs,9,0,GBP,£0.04
+2017_08_21,SCA_UK_Zenith,svn_SCIENCE,Science Buffs,2,0,GBP,£0.01
+2017_08_21,SCA_UK_Zenith,Sovrn_HV1,High Viewability,9,0,GBP,£0.05
+2017_08_21,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | 970x250,"1,064",1,GBP,£18.11
+2017_08_21,SCA_UK_Zenith,OX-MPO-dlJ58A,AO - OpenX RTB - Various - OX-MPO-dlJ58A,48,0,GBP,£0.19
+2017_08_21,SCA_UK_Zenith,TRN-13132-00bff,GroundTruth_SCA_Bodyform Blackliner_320x480 2,353,1,GBP,£3.87
+2017_08_21,SCA_UK_Zenith,svn_AUTOMOTIVE,Car Lovers,1,0,GBP,£0.01
+2017_08_21,SCA_UK_Zenith,svn_HEALTH,Health Gurus,2,0,GBP,£0.01
+2017_08_21,SCA_UK_Zenith,svn_SPORTS,Sports Enthusiats,2,0,GBP,£0.01
+2017_08_21,SCA_UK_Zenith,svn_TECH,Gadget Fans,5,1,GBP,£0.02
+2017_08_21,SCA_UK_Zenith,TRN-13132-0079a,AO - Rubicon - xAd - CPG,0,1,GBP,
+2017_08_21,SCA_UK_Zenith,svn_ARTS,Arts & Popular Media,14,0,GBP,£0.06
+2017_08_21,SCA_UK_Zenith,svn_HOBBIES,Hobbyists,2,0,GBP,£0.01
+2017_08_21,SCA_UK_Zenith,svn_STYLE,Fashionistas,1,0,GBP,£0.01
+2017_08_22,SCA_UK_Zenith,svn_ARTS,Arts & Popular Media,1,0,GBP,£0.00
+2017_08_22,SCA_UK_Zenith,361954,Sublime Skinz_SCA_Bodyform Blackliner 2,"6,653",84,GBP,£168.59
+2017_08_22,SCA_UK_Zenith,TRN-13132-00b3d,GroundTruth_SCA_Bodyform Blackliner_320x50,"8,017",24,GBP,£44.00
+2017_08_22,SCA_UK_Zenith,357293,Playground XYZ_SCA_Bodyform Blackliner,"5,678",53,GBP,£132.14
+2017_08_22,SCA_UK_Zenith,7.63725E+17,"CN UK | Glamour UK Health | 300x250, 300x50, 728x90",197,0,GBP,£3.03
+2017_08_22,SCA_UK_Zenith,TRN-13132-00b3e,GroundTruth_SCA_Bodyform Blackliner_300x250,"2,613",4,GBP,£14.30
+2017_08_22,SCA_UK_Zenith,svn_FOOD,Foodies,3,0,GBP,£0.01
+2017_08_22,SCA_UK_Zenith,svn_FINANCE,Financial Investors,1,0,GBP,£0.01
+2017_08_22,SCA_UK_Zenith,Sovrn_HV1,High Viewability,5,0,GBP,£0.02
+2017_08_22,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | 970x250,721,0,GBP,£12.26
+2017_08_22,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | Standard,790,1,GBP,£9.14
+2017_08_22,SCA_UK_Zenith,OX-MPO-dlJ58A,AO - OpenX RTB - Various - OX-MPO-dlJ58A,38,0,GBP,£0.15
+2017_08_22,SCA_UK_Zenith,Unknown,Unknown,"373,733",335,GBP,"£1,013.33"
+2017_08_22,SCA_UK_Zenith,svn_BUSINESS,Business Buffs,2,0,GBP,£0.01
+2017_08_22,SCA_UK_Zenith,svn_SCIENCE,Science Buffs,4,0,GBP,£0.02
+2017_08_22,SCA_UK_Zenith,svn_SPORTS,Sports Enthusiats,1,0,GBP,£0.01
+2017_08_22,SCA_UK_Zenith,TRN-13132-0079b,AO - Rubicon - xAd - Big Box,0,1,GBP,
+2017_08_22,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | 300x600,54,1,GBP,£0.75
+2017_08_22,SCA_UK_Zenith,7.63725E+17,"CN UK | Glamour UK Health | 320x480, 300x600, 970x250",2,0,GBP,£0.06
+2017_08_22,SCA_UK_Zenith,TRN-13132-00bff,GroundTruth_SCA_Bodyform Blackliner_320x480 2,441,2,GBP,£4.86
+2017_08_23,SCA_UK_Zenith,361954,Sublime Skinz_SCA_Bodyform Blackliner 2,"6,689",88,GBP,£169.38
+2017_08_23,SCA_UK_Zenith,TRN-13132-00b3d,GroundTruth_SCA_Bodyform Blackliner_320x50,"7,186",17,GBP,£39.47
+2017_08_23,SCA_UK_Zenith,TRN-13132-00bff,GroundTruth_SCA_Bodyform Blackliner_320x480 2,394,0,GBP,£4.29
+2017_08_23,SCA_UK_Zenith,svn_HEALTH,Health Gurus,3,0,GBP,£0.03
+2017_08_23,SCA_UK_Zenith,7.63725E+17,"CN UK | Glamour UK Health | 300x250, 300x50, 728x90",373,0,GBP,£5.72
+2017_08_23,SCA_UK_Zenith,svn_ARTS,Arts & Popular Media,9,0,GBP,£0.05
+2017_08_23,SCA_UK_Zenith,svn_FOOD,Foodies,3,0,GBP,£0.02
+2017_08_23,SCA_UK_Zenith,357293,Playground XYZ_SCA_Bodyform Blackliner,"5,631",61,GBP,£130.74
+2017_08_23,SCA_UK_Zenith,Sovrn_HV1,High Viewability,7,0,GBP,£0.03
+2017_08_23,SCA_UK_Zenith,TRN-13132-00b3e,GroundTruth_SCA_Bodyform Blackliner_300x250,"2,734",5,GBP,£15.05
+2017_08_23,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | 970x250,723,0,GBP,£12.26
+2017_08_23,SCA_UK_Zenith,OX-MPO-dlJ58A,AO - OpenX RTB - Various - OX-MPO-dlJ58A,56,1,GBP,£0.19
+2017_08_23,SCA_UK_Zenith,svn_HOME,Home Improvement,1,0,GBP,£0.01
+2017_08_23,SCA_UK_Zenith,svn_TECH,Gadget Fans,2,0,GBP,£0.01
+2017_08_23,SCA_UK_Zenith,TRN-13132-0079a,AO - Rubicon - xAd - CPG,0,1,GBP,
+2017_08_23,SCA_UK_Zenith,svn_STYLE,Fashionistas,1,0,GBP,£0.01
+2017_08_23,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | Standard,951,1,GBP,£10.95
+2017_08_23,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | 300x600,68,0,GBP,£0.94
+2017_08_23,SCA_UK_Zenith,7.63725E+17,"CN UK | Glamour UK Health | 320x480, 300x600, 970x250",2,0,GBP,£0.06
+2017_08_23,SCA_UK_Zenith,Unknown,Unknown,"378,469",362,GBP,"£1,009.33"
+2017_08_23,SCA_UK_Zenith,svn_BUSINESS,Business Buffs,1,0,GBP,£0.00
+2017_08_23,SCA_UK_Zenith,svn_SCIENCE,Science Buffs,14,0,GBP,£0.08
+2017_08_24,SCA_UK_Zenith,7.63725E+17,"CN UK | Glamour UK Health | 300x250, 300x50, 728x90",157,0,GBP,£2.41
+2017_08_24,SCA_UK_Zenith,svn_FOOD,Foodies,1,0,GBP,£0.00
+2017_08_24,SCA_UK_Zenith,TRN-13132-00bff,GroundTruth_SCA_Bodyform Blackliner_320x480 2,374,3,GBP,£4.10
+2017_08_24,SCA_UK_Zenith,svn_HEALTH,Health Gurus,4,0,GBP,£0.01
+2017_08_24,SCA_UK_Zenith,Sovrn_HV1,High Viewability,3,0,GBP,£0.01
+2017_08_24,SCA_UK_Zenith,svn_ARTS,Arts & Popular Media,4,0,GBP,£0.02
+2017_08_24,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | 970x250,851,1,GBP,£14.50
+2017_08_24,SCA_UK_Zenith,OX-MPO-dlJ58A,AO - OpenX RTB - Various - OX-MPO-dlJ58A,57,0,GBP,£0.18
+2017_08_24,SCA_UK_Zenith,svn_TECH,Gadget Fans,1,0,GBP,£0.00
+2017_08_24,SCA_UK_Zenith,357293,Playground XYZ_SCA_Bodyform Blackliner,"5,719",69,GBP,£133.52
+2017_08_24,SCA_UK_Zenith,TRN-13132-0079a,AO - Rubicon - xAd - CPG,1,1,GBP,£0.00
+2017_08_24,SCA_UK_Zenith,TRN-13132-00b3e,GroundTruth_SCA_Bodyform Blackliner_300x250,"2,737",3,GBP,£15.64
+2017_08_24,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | 300x600,71,0,GBP,£0.98
+2017_08_24,SCA_UK_Zenith,svn_LAWGOVT,Politicos,1,0,GBP,£0.00
+2017_08_24,SCA_UK_Zenith,361954,Sublime Skinz_SCA_Bodyform Blackliner 2,"6,540",100,GBP,£166.53
+2017_08_24,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | Standard,804,2,GBP,£9.30
+2017_08_24,SCA_UK_Zenith,TRN-13132-00b3d,GroundTruth_SCA_Bodyform Blackliner_320x50,"6,086",19,GBP,£34.56
+2017_08_24,SCA_UK_Zenith,Unknown,Unknown,"380,736",330,GBP,"£1,013.96"
+2017_08_24,SCA_UK_Zenith,svn_BUSINESS,Business Buffs,1,0,GBP,£0.00
+2017_08_24,SCA_UK_Zenith,svn_SCIENCE,Science Buffs,1,0,GBP,£0.00
+2017_08_25,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | Standard,698,0,GBP,£8.10
+2017_08_25,SCA_UK_Zenith,Unknown,Unknown,"504,159",392,GBP,"£1,312.23"
+2017_08_25,SCA_UK_Zenith,svn_BUSINESS,Business Buffs,1,0,GBP,£0.00
+2017_08_25,SCA_UK_Zenith,svn_PETS,Pet Lovers,1,0,GBP,£0.01
+2017_08_25,SCA_UK_Zenith,svn_SCIENCE,Science Buffs,3,0,GBP,£0.01
+2017_08_25,SCA_UK_Zenith,Sovrn_HV1,High Viewability,4,0,GBP,£0.02
+2017_08_25,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | 970x250,"1,031",0,GBP,£17.52
+2017_08_25,SCA_UK_Zenith,OX-MPO-dlJ58A,AO - OpenX RTB - Various - OX-MPO-dlJ58A,69,0,GBP,£0.21
+2017_08_25,SCA_UK_Zenith,TRN-13132-00bff,GroundTruth_SCA_Bodyform Blackliner_320x480 2,542,1,GBP,£5.97
+2017_08_25,SCA_UK_Zenith,svn_HEALTH,Health Gurus,2,0,GBP,£0.01
+2017_08_25,SCA_UK_Zenith,svn_TECH,Gadget Fans,1,0,GBP,£0.01
+2017_08_25,SCA_UK_Zenith,TRN-13132-0079a,AO - Rubicon - xAd - CPG,2,3,GBP,£0.01
+2017_08_25,SCA_UK_Zenith,svn_ARTS,Arts & Popular Media,8,0,GBP,£0.04
+2017_08_25,SCA_UK_Zenith,svn_HOBBIES,Hobbyists,2,0,GBP,£0.01
+2017_08_25,SCA_UK_Zenith,svn_STYLE,Fashionistas,1,0,GBP,£0.01
+2017_08_25,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | 300x600,95,0,GBP,£1.32
+2017_08_25,SCA_UK_Zenith,7.63725E+17,"CN UK | Glamour UK Health | 320x480, 300x600, 970x250",2,0,GBP,£0.06
+2017_08_25,SCA_UK_Zenith,357293,Playground XYZ_SCA_Bodyform Blackliner,"5,957",81,GBP,£138.94
+2017_08_25,SCA_UK_Zenith,OX-pmc-Vude2j,AO - OpenX - PMC - OX-pmc-Vude2j,1,0,GBP,£0.00
+2017_08_25,SCA_UK_Zenith,TRN-13132-00b3e,GroundTruth_SCA_Bodyform Blackliner_300x250,"2,897",3,GBP,£16.23
+2017_08_25,SCA_UK_Zenith,361954,Sublime Skinz_SCA_Bodyform Blackliner 2,"6,662",66,GBP,£170.01
+2017_08_25,SCA_UK_Zenith,TRN-13132-00b3d,GroundTruth_SCA_Bodyform Blackliner_320x50,"6,735",16,GBP,£37.77
+2017_08_25,SCA_UK_Zenith,svn_HOME,Home Improvement,1,0,GBP,£0.01
+2017_08_25,SCA_UK_Zenith,7.63725E+17,"CN UK | Glamour UK Health | 300x250, 300x50, 728x90",43,0,GBP,£0.66
+2017_08_25,SCA_UK_Zenith,svn_FOOD,Foodies,5,0,GBP,£0.02
+2017_08_26,SCA_UK_Zenith,Sovrn_HV1,High Viewability,15,0,GBP,£0.06
+2017_08_26,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | 970x250,796,0,GBP,£13.58
+2017_08_26,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | Standard,17,0,GBP,£0.20
+2017_08_26,SCA_UK_Zenith,OX-MPO-dlJ58A,AO - OpenX RTB - Various - OX-MPO-dlJ58A,95,0,GBP,£0.33
+2017_08_26,SCA_UK_Zenith,Unknown,Unknown,"504,888",427,GBP,"£1,322.37"
+2017_08_26,SCA_UK_Zenith,svn_BUSINESS,Business Buffs,1,0,GBP,£0.00
+2017_08_26,SCA_UK_Zenith,svn_PETS,Pet Lovers,1,0,GBP,£0.00
+2017_08_26,SCA_UK_Zenith,svn_SCIENCE,Science Buffs,3,0,GBP,£0.02
+2017_08_26,SCA_UK_Zenith,svn_SPORTS,Sports Enthusiats,1,0,GBP,£0.01
+2017_08_26,SCA_UK_Zenith,svn_TECH,Gadget Fans,14,0,GBP,£0.06
+2017_08_26,SCA_UK_Zenith,TRN-13132-0079a,AO - Rubicon - xAd - CPG,2,1,GBP,£0.01
+2017_08_26,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | 300x600,86,0,GBP,£1.20
+2017_08_26,SCA_UK_Zenith,7.63725E+17,"CN UK | Glamour UK Health | 320x480, 300x600, 970x250",1,0,GBP,£0.03
+2017_08_26,SCA_UK_Zenith,TRN-13132-00bff,GroundTruth_SCA_Bodyform Blackliner_320x480 2,604,2,GBP,£6.68
+2017_08_26,SCA_UK_Zenith,svn_ARTS,Arts & Popular Media,11,0,GBP,£0.04
+2017_08_26,SCA_UK_Zenith,svn_EDU,Secondary & Adult Ed,1,0,GBP,£0.00
+2017_08_26,SCA_UK_Zenith,svn_HOBBIES,Hobbyists,1,0,GBP,£0.01
+2017_08_26,SCA_UK_Zenith,361954,Sublime Skinz_SCA_Bodyform Blackliner 2,"5,352",72,GBP,£136.36
+2017_08_26,SCA_UK_Zenith,TRN-13132-00b3d,GroundTruth_SCA_Bodyform Blackliner_320x50,"7,308",19,GBP,£39.96
+2017_08_26,SCA_UK_Zenith,357293,Playground XYZ_SCA_Bodyform Blackliner,"5,509",63,GBP,£128.28
+2017_08_26,SCA_UK_Zenith,7.63725E+17,"CN UK | Glamour UK Health | 300x250, 300x50, 728x90",1,0,GBP,£0.02
+2017_08_26,SCA_UK_Zenith,TRN-13132-00b3e,GroundTruth_SCA_Bodyform Blackliner_300x250,"3,297",9,GBP,£18.02
+2017_08_26,SCA_UK_Zenith,svn_FOOD,Foodies,32,0,GBP,£0.13
+2017_08_26,SCA_UK_Zenith,OX-33a-bWjc5I,AO - OpenX RTB - 33Across - OX-33a-bWjc5I,1,0,GBP,£0.00
+2017_08_26,SCA_UK_Zenith,svn_HOME,Home Improvement,1,0,GBP,£0.00
+2017_08_26,SCA_UK_Zenith,svn_LAWGOVT,Politicos,2,0,GBP,£0.01
+2017_08_27,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | 970x250,777,1,GBP,£13.18
+2017_08_27,SCA_UK_Zenith,OX-33a-bWjc5I,AO - OpenX RTB - 33Across - OX-33a-bWjc5I,1,0,GBP,£0.00
+2017_08_27,SCA_UK_Zenith,OX-MPO-dlJ58A,AO - OpenX RTB - Various - OX-MPO-dlJ58A,71,0,GBP,£0.23
+2017_08_27,SCA_UK_Zenith,svn_HOME,Home Improvement,1,0,GBP,£0.01
+2017_08_27,SCA_UK_Zenith,svn_LAWGOVT,Politicos,2,0,GBP,£0.01
+2017_08_27,SCA_UK_Zenith,svn_TECH,Gadget Fans,10,0,GBP,£0.04
+2017_08_27,SCA_UK_Zenith,TRN-13132-0079a,AO - Rubicon - xAd - CPG,0,2,GBP,
+2017_08_27,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | Standard,32,0,GBP,£0.37
+2017_08_27,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | 300x600,83,1,GBP,£1.15
+2017_08_27,SCA_UK_Zenith,Unknown,Unknown,"480,615",453,GBP,"£1,322.73"
+2017_08_27,SCA_UK_Zenith,svn_BUSINESS,Business Buffs,1,0,GBP,£0.00
+2017_08_27,SCA_UK_Zenith,svn_SCIENCE,Science Buffs,2,0,GBP,£0.01
+2017_08_27,SCA_UK_Zenith,361954,Sublime Skinz_SCA_Bodyform Blackliner 2,"6,700",96,GBP,£169.77
+2017_08_27,SCA_UK_Zenith,TRN-13132-00b3d,GroundTruth_SCA_Bodyform Blackliner_320x50,"7,605",25,GBP,£41.51
+2017_08_27,SCA_UK_Zenith,TRN-13132-00bff,GroundTruth_SCA_Bodyform Blackliner_320x480 2,696,2,GBP,£7.57
+2017_08_27,SCA_UK_Zenith,svn_AUTOMOTIVE,Car Lovers,4,0,GBP,£0.02
+2017_08_27,SCA_UK_Zenith,svn_FAMILY,Family Matters,1,0,GBP,£0.00
+2017_08_27,SCA_UK_Zenith,svn_HEALTH,Health Gurus,2,0,GBP,£0.01
+2017_08_27,SCA_UK_Zenith,7.63725E+17,"CN UK | Glamour UK Health | 300x250, 300x50, 728x90",3,0,GBP,£0.05
+2017_08_27,SCA_UK_Zenith,svn_ARTS,Arts & Popular Media,26,0,GBP,£0.11
+2017_08_27,SCA_UK_Zenith,svn_FOOD,Foodies,26,0,GBP,£0.10
+2017_08_27,SCA_UK_Zenith,svn_TRAVEL,Jet Setters,1,0,GBP,£0.01
+2017_08_27,SCA_UK_Zenith,357293,Playground XYZ_SCA_Bodyform Blackliner,"7,276",99,GBP,£168.50
+2017_08_27,SCA_UK_Zenith,Sovrn_HV1,High Viewability,13,0,GBP,£0.05
+2017_08_27,SCA_UK_Zenith,TRN-13132-00b3e,GroundTruth_SCA_Bodyform Blackliner_300x250,"3,817",2,GBP,£20.74
+2017_08_28,SCA_UK_Zenith,357293,Playground XYZ_SCA_Bodyform Blackliner,"5,464",81,GBP,£126.85
+2017_08_28,SCA_UK_Zenith,TRN-13132-0079a,AO - Rubicon - xAd - CPG,0,1,GBP,
+2017_08_28,SCA_UK_Zenith,TRN-13132-00b3e,GroundTruth_SCA_Bodyform Blackliner_300x250,"3,086",3,GBP,£16.74
+2017_08_28,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | 300x600,71,0,GBP,£0.99
+2017_08_28,SCA_UK_Zenith,7.63725E+17,"CN UK | Glamour UK Health | 320x480, 300x600, 970x250",1,0,GBP,£0.03
+2017_08_28,SCA_UK_Zenith,svn_FINANCE,Financial Investors,1,0,GBP,£0.00
+2017_08_28,SCA_UK_Zenith,svn_LAWGOVT,Politicos,2,0,GBP,£0.01
+2017_08_28,SCA_UK_Zenith,361954,Sublime Skinz_SCA_Bodyform Blackliner 2,"6,701",99,GBP,£169.80
+2017_08_28,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | Standard,656,1,GBP,£7.59
+2017_08_28,SCA_UK_Zenith,TRN-13132-00b3d,GroundTruth_SCA_Bodyform Blackliner_320x50,"6,834",16,GBP,£37.30
+2017_08_28,SCA_UK_Zenith,Unknown,Unknown,"505,449",397,GBP,"£1,313.03"
+2017_08_28,SCA_UK_Zenith,svn_BUSINESS,Business Buffs,8,0,GBP,£0.03
+2017_08_28,SCA_UK_Zenith,svn_PETS,Pet Lovers,1,0,GBP,£0.01
+2017_08_28,SCA_UK_Zenith,svn_SCIENCE,Science Buffs,5,0,GBP,£0.02
+2017_08_28,SCA_UK_Zenith,7.63725E+17,"CN UK | Glamour UK Health | 300x250, 300x50, 728x90",38,0,GBP,£0.59
+2017_08_28,SCA_UK_Zenith,svn_FOOD,Foodies,32,0,GBP,£0.13
+2017_08_28,SCA_UK_Zenith,TRN-13132-00bff,GroundTruth_SCA_Bodyform Blackliner_320x480 2,686,4,GBP,£7.38
+2017_08_28,SCA_UK_Zenith,svn_HEALTH,Health Gurus,4,0,GBP,£0.02
+2017_08_28,SCA_UK_Zenith,Sovrn_HV1,High Viewability,16,0,GBP,£0.06
+2017_08_28,SCA_UK_Zenith,svn_ARTS,Arts & Popular Media,31,0,GBP,£0.12
+2017_08_28,SCA_UK_Zenith,svn_HOBBIES,Hobbyists,3,0,GBP,£0.01
+2017_08_28,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | 970x250,766,0,GBP,£13.01
+2017_08_28,SCA_UK_Zenith,OX-MPO-dlJ58A,AO - OpenX RTB - Various - OX-MPO-dlJ58A,92,1,GBP,£0.32
+2017_08_28,SCA_UK_Zenith,svn_SPORTS,Sports Enthusiats,2,0,GBP,£0.01
+2017_08_28,SCA_UK_Zenith,svn_TECH,Gadget Fans,12,1,GBP,£0.05
+2017_08_29,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | 300x600,116,0,GBP,£1.62
+2017_08_29,SCA_UK_Zenith,7.63725E+17,"CN UK | Glamour UK Health | 320x480, 300x600, 970x250",2,0,GBP,£0.06
+2017_08_29,SCA_UK_Zenith,357293,Playground XYZ_SCA_Bodyform Blackliner,"7,262",65,GBP,£169.93
+2017_08_29,SCA_UK_Zenith,OX-pmc-Vude2j,AO - OpenX - PMC - OX-pmc-Vude2j,1,0,GBP,£0.00
+2017_08_29,SCA_UK_Zenith,TRN-13132-00b3e,GroundTruth_SCA_Bodyform Blackliner_300x250,"4,372",5,GBP,£23.72
+2017_08_29,SCA_UK_Zenith,svn_EDU,Secondary & Adult Ed,3,0,GBP,£0.01
+2017_08_29,SCA_UK_Zenith,361954,Sublime Skinz_SCA_Bodyform Blackliner 2,"6,715",85,GBP,£170.10
+2017_08_29,SCA_UK_Zenith,TRN-13132-00b3d,GroundTruth_SCA_Bodyform Blackliner_320x50,"8,264",19,GBP,£45.14
+2017_08_29,SCA_UK_Zenith,svn_HOME,Home Improvement,1,0,GBP,£0.01
+2017_08_29,SCA_UK_Zenith,svn_LAWGOVT,Politicos,1,0,GBP,£0.01
+2017_08_29,SCA_UK_Zenith,7.63725E+17,"CN UK | Glamour UK Health | 300x250, 300x50, 728x90",38,0,GBP,£0.59
+2017_08_29,SCA_UK_Zenith,svn_FOOD,Foodies,5,0,GBP,£0.02
+2017_08_29,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | Standard,911,2,GBP,£10.58
+2017_08_29,SCA_UK_Zenith,Unknown,Unknown,"445,681",432,GBP,"£1,154.23"
+2017_08_29,SCA_UK_Zenith,svn_BUSINESS,Business Buffs,21,0,GBP,£0.08
+2017_08_29,SCA_UK_Zenith,svn_PETS,Pet Lovers,1,0,GBP,£0.01
+2017_08_29,SCA_UK_Zenith,Sovrn_HV1,High Viewability,1,0,GBP,£0.00
+2017_08_29,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | 970x250,"1,140",0,GBP,£19.44
+2017_08_29,SCA_UK_Zenith,OX-MPO-dlJ58A,AO - OpenX RTB - Various - OX-MPO-dlJ58A,27,0,GBP,£0.10
+2017_08_29,SCA_UK_Zenith,TRN-13132-00bff,GroundTruth_SCA_Bodyform Blackliner_320x480 2,923,4,GBP,£9.94
+2017_08_29,SCA_UK_Zenith,svn_AUTOMOTIVE,Car Lovers,1,0,GBP,£0.00
+2017_08_29,SCA_UK_Zenith,svn_HEALTH,Health Gurus,2,0,GBP,£0.01
+2017_08_29,SCA_UK_Zenith,svn_TECH,Gadget Fans,6,0,GBP,£0.03
+2017_08_29,SCA_UK_Zenith,TRN-13132-0079a,AO - Rubicon - xAd - CPG,1,1,GBP,£0.00
+2017_08_29,SCA_UK_Zenith,TRN-13132-0079b,AO - Rubicon - xAd - Big Box,0,1,GBP,
+2017_08_29,SCA_UK_Zenith,svn_ARTS,Arts & Popular Media,18,0,GBP,£0.07
+2017_08_30,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | 970x250,"1,219",2,GBP,£20.64
+2017_08_30,SCA_UK_Zenith,OX-MPO-dlJ58A,AO - OpenX RTB - Various - OX-MPO-dlJ58A,68,0,GBP,£0.22
+2017_08_30,SCA_UK_Zenith,svn_LAWGOVT,Politicos,1,0,GBP,£0.01
+2017_08_30,SCA_UK_Zenith,svn_SPORTS,Sports Enthusiats,1,0,GBP,£0.00
+2017_08_30,SCA_UK_Zenith,svn_TECH,Gadget Fans,5,0,GBP,£0.02
+2017_08_30,SCA_UK_Zenith,TRN-13132-0079a,AO - Rubicon - xAd - CPG,2,8,GBP,£0.01
+2017_08_30,SCA_UK_Zenith,TRN-13132-0079b,AO - Rubicon - xAd - Big Box,0,1,GBP,
+2017_08_30,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | Standard,697,1,GBP,£8.05
+2017_08_30,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | 300x600,154,0,GBP,£2.13
+2017_08_30,SCA_UK_Zenith,7.63725E+17,"CN UK | Glamour UK Health | 320x480, 300x600, 970x250",5,0,GBP,£0.16
+2017_08_30,SCA_UK_Zenith,Unknown,Unknown,"871,218","1,522",GBP,"£1,831.50"
+2017_08_30,SCA_UK_Zenith,svn_PETS,Pet Lovers,1,0,GBP,£0.01
+2017_08_30,SCA_UK_Zenith,svn_SCIENCE,Science Buffs,3,0,GBP,£0.02
+2017_08_30,SCA_UK_Zenith,361954,Sublime Skinz_SCA_Bodyform Blackliner 2,"6,743",71,GBP,£170.05
+2017_08_30,SCA_UK_Zenith,TRN-13132-00b3d,GroundTruth_SCA_Bodyform Blackliner_320x50,"8,021",31,GBP,£43.62
+2017_08_30,SCA_UK_Zenith,TRN-13132-00bff,GroundTruth_SCA_Bodyform Blackliner_320x480 2,"1,248",5,GBP,£13.40
+2017_08_30,SCA_UK_Zenith,svn_HEALTH,Health Gurus,1,0,GBP,£0.00
+2017_08_30,SCA_UK_Zenith,7.63725E+17,"CN UK | Glamour UK Health | 300x250, 300x50, 728x90",23,0,GBP,£0.35
+2017_08_30,SCA_UK_Zenith,svn_ARTS,Arts & Popular Media,4,0,GBP,£0.02
+2017_08_30,SCA_UK_Zenith,svn_FOOD,Foodies,6,0,GBP,£0.03
+2017_08_30,SCA_UK_Zenith,357293,Playground XYZ_SCA_Bodyform Blackliner,"7,297",71,GBP,£169.98
+2017_08_30,SCA_UK_Zenith,Sovrn_HV1,High Viewability,5,0,GBP,£0.02
+2017_08_30,SCA_UK_Zenith,TRN-11726-00d32,InMobi UK - Turn SP Ban RON,1,9,GBP,£0.00
+2017_08_30,SCA_UK_Zenith,TRN-13132-00b3e,GroundTruth_SCA_Bodyform Blackliner_300x250,"4,250",6,GBP,£23.00
+2017_08_31,SCA_UK_Zenith,357293,Playground XYZ_SCA_Bodyform Blackliner,"7,016",78,GBP,£163.44
+2017_08_31,SCA_UK_Zenith,TRN-11726-00d32,InMobi UK - Turn SP Ban RON,0,1,GBP,
+2017_08_31,SCA_UK_Zenith,TRN-13132-0079a,AO - Rubicon - xAd - CPG,3,4,GBP,£0.01
+2017_08_31,SCA_UK_Zenith,TRN-13132-00b3e,GroundTruth_SCA_Bodyform Blackliner_300x250,"2,640",2,GBP,£14.30
+2017_08_31,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | 300x600,30,0,GBP,£0.42
+2017_08_31,SCA_UK_Zenith,svn_HOME,Home Improvement,1,0,GBP,£0.01
+2017_08_31,SCA_UK_Zenith,361954,Sublime Skinz_SCA_Bodyform Blackliner 2,"6,744",74,GBP,£170.15
+2017_08_31,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | Standard,299,0,GBP,£3.45
+2017_08_31,SCA_UK_Zenith,TRN-13132-00b3d,GroundTruth_SCA_Bodyform Blackliner_320x50,"9,154",12,GBP,£49.87
+2017_08_31,SCA_UK_Zenith,Unknown,Unknown,"1,012,947","2,480",GBP,"£1,879.57"
+2017_08_31,SCA_UK_Zenith,svn_BUSINESS,Business Buffs,1,0,GBP,£0.00
+2017_08_31,SCA_UK_Zenith,svn_SCIENCE,Science Buffs,5,0,GBP,£0.03
+2017_08_31,SCA_UK_Zenith,7.63725E+17,"CN UK | Glamour UK Health | 300x250, 300x50, 728x90",47,0,GBP,£0.72
+2017_08_31,SCA_UK_Zenith,svn_FOOD,Foodies,3,0,GBP,£0.01
+2017_08_31,SCA_UK_Zenith,TRN-13132-00bff,GroundTruth_SCA_Bodyform Blackliner_320x480 2,"1,479",6,GBP,£15.89
+2017_08_31,SCA_UK_Zenith,Sovrn_HV1,High Viewability,11,0,GBP,£0.04
+2017_08_31,SCA_UK_Zenith,4.53686E+17,PSG | HMIUK | ZENITH | BODYFORM | FEMALE HEALTH | 970x250,312,0,GBP,£5.28
+2017_08_31,SCA_UK_Zenith,OX-MPO-dlJ58A,AO - OpenX RTB - Various - OX-MPO-dlJ58A,79,0,GBP,£0.25
+2017_08_31,SCA_UK_Zenith,svn_SPORTS,Sports Enthusiats,2,0,GBP,£0.01
