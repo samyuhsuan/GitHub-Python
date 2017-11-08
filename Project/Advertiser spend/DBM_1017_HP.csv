@@ -1,0 +1,18 @@
+Month,Advertiser,Advertiser ID,Advertiser Status,Advertiser Integration Code,Public Inventory,Advertiser Currency,Impressions,Clicks,Revenue (Adv Currency),Media Cost (Advertiser Currency)
+2017/10,HP Supplies (USD)_UK_Performics,1932471,Active,,No,USD,768852,155,7584.665798,5417.618427
+2017/10,HP P&C (USD)_UK_Performics,1932472,Active,,Yes,USD,7711751,4148,28877.436756,15962.799701
+2017/10,HP Supplies (USD)_UK_Performics,1932471,Active,,Yes,USD,20357033,9019,95191.442654,37421.793300
+2017/10,HP Solvent (USD)_UK_Performics,1933366,Active,,Yes,USD,7249708,1206,29453.295270,13750.935677
+,,,,,,,36087344,14528,161106.840478,72553.147105
+
+Report Time:,2017/11/07 10:45 GMT
+Date Range:,2017/10/01 to 2017/10/31
+Group By:,Month
+Group By:,Advertiser
+Group By:,Advertiser ID
+Group By:,Advertiser Status
+Group By:,Advertiser Integration Code
+Group By:,Public Inventory
+Group By:,Advertiser Currency
+Filter by Advertiser ID:,1914462,1932471,1932472,1933366
+Filter by Partner ID:,1914663

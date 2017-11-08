@@ -1,5 +1,3 @@
-"This report is not intended to be used, and may not be used, for any billing, invoicing or payment purposes."
-
-"Advertiser","Year and Month","Exchange Deal ID","Imps","Clicks","Spend","Media Cost"
-"Oracle_UK_Zenith International","2017-05","","9632442","6011","GBP 30975.3310334144","GBP 9884.92254275394"
-"SIA_UK_Zenith ","2017-05","","1419037","228","GBP 712.110331247257","GBP 648.336431020953"
+Advertiser,Year and Month,Exchange Deal ID,Imps,Clicks,Spend,Media Cost
+Oracle_UK_Zenith International,2017-05,,9632442,6011,GBP 30975.3310334144,GBP 9884.92254275394
+SIA_UK_Zenith ,2017-05,,1419037,228,GBP 712.110331247257,GBP 648.336431020953
